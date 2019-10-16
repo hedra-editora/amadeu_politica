@@ -5,7 +5,7 @@
 \RequirePackage{adforn}
 \RequirePackage{hifensextras}
 \RequirePackage[para*]{manyfoot}
-\RequirePackage[stable,multiple]{footmisc}
+\RequirePackage[stable,bottom,multiple]{footmisc}
 \RequirePackage{textcase}
 \RequirePackage{etoolbox}
 \RequirePackage{xifthen}
@@ -104,8 +104,8 @@
 
 % asterisc 
 %\newcommand{\asterisc}{\vspace{-1ex}\begin{center} ***\vspace{-2ex}\end{center}}
-\newcommand{\asterisc}{\vspace{-1ex}\begin{center} \adforn{47}\end{center}}
-
+%\newcommand{\asterisc}{\vspace{-1ex}\begin{center} \adforn{47}\end{center}}
+\newcommand{\asterisc}{\begin{center}\raisebox{-3pt}{*\,*\,*}\end{center}}
 %%%%%%%%%%% COMPILADOR: PDFTEX--XETEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -183,31 +183,32 @@
 \RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
 \RequirePackage[protrusion=true,final]{microtype}
 \RequirePackage{fontspec}
-%\RequirePackage{luatextra}
+\RequirePackage{luatextra}
 \newfontfeature{Microtype}{protrusion=default, expansion=default}
-\defaultfontfeatures{Microtype}
-\RequirePackage{xunicode}
+%\defaultfontfeatures{Microtype}
+%\RequirePackage{xunicode}
 %\RequirePackage{polyglossia}
 %\setmainlanguage{portuges}
-\newcommand{\port}{\selectlanguage{brazilian}}
-\newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
-\newcommand{\Italiano}{\selectlanguage{italian}}
-\newcommand{\Alemao}{\selectlanguage{ngerman}}
-%\newcommand{\alemao}{\foreignlanguage{ngerman}{#1}}
-\newcommand{\Frances}{\selectlanguage{french}}
-\newcommand{\Ingles}{\selectlanguage{english}}
-\newcommand{\Russo}{\selectlanguage{russian}}
-\newcommand{\gr}[1]{#1}
+%\newcommand{\port}{\selectlanguage{brazilian}}
+%\newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
+%\newcommand{\Italiano}{\selectlanguage{italian}}
+%\newcommand{\Alemao}{\selectlanguage{ngerman}}
+%%\newcommand{\alemao}{\foreignlanguage{ngerman}{#1}}
+%\newcommand{\Frances}{\selectlanguage{french}}
+%\newcommand{\Ingles}{\selectlanguage{english}}
+%\newcommand{\Russo}{\selectlanguage{russian}}
+%\newcommand{\gr}[1]{#1}
 %\defaultfontfeatures{Ligatures=TeX}        Conflito com Microtype
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
+%\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
+\setmainfont{Linux Libertine O}
 %\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Charis SIL}
 %% translineação
-\newcommand{\letra}[2]{\lettrine[lines=3,nindent=-.1mm,findent=2mm]{#1}{#2}}
-\defineshorthand{"-}{\discretionary{-}{-}{-}} 
-\newcommand{\quebra}{\linebreak}
-\newfontfamily\china{WenQuanYi Micro Hei}
-\newcommand{\chin}[1]{{\normalfont\china #1}}
-\newcommand{\testechines}{\chin{道德經}}
+%\newcommand{\letra}[2]{\lettrine[lines=3,nindent=-.1mm,findent=2mm]{#1}{#2}}
+%\defineshorthand{"-}{\discretionary{-}{-}{-}} 
+%\newcommand{\quebra}{\linebreak}
+%\newfontfamily\china{WenQuanYi Micro Hei}
+%\newcommand{\chin}[1]{{\normalfont\china #1}}
+%\newcommand{\testechines}{\chin{道德經}}
 }}
 
 %%%%%%%%%%% FONTES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -232,7 +233,7 @@
 \DeclareOption{arial}{\AtEndOfClass{\setmainfont[Ligatures=TeX]{Arial}}}
 \DeclareOption{georgia}{\AtEndOfClass{\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Georgia}}}
 \DeclareOption{swiftneue}{\AtEndOfClass{\setmainfont[Ligatures=TeX]{Swift Neue LT Pro}}} % Mameluco
-
+\DeclareOption{weiss}{\AtEndOfClass{\setmainfont[Ligatures=TeX]{Weiss}}} %
 \DeclareOption{chines}{\newenvironment{chines}{\begingroup\china\parindent0pt}{\endgroup}
 }
 

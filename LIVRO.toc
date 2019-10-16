@@ -1,0 +1,17 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Apresentação \vspace \medskipamount }{7}
+\contentsline {part}{Ciberpolítica: Política e Internet}{15}
+\contentsline {chapter}{Estratégias de ação digital dos partidos da internet: um estudo comparado dos sistemas partidários da Espanha e do Brasil, \emph {por Sérgio Braga, Leonardo Caetano Rocha e Fernando Wisse}}{17}
+\contentsline {section}{Os partidos e a internet}{17}
+\contentsline {chapter}{Quem são os mais ativos? Um estudo longitudinal do uso do Twitter pelos deputados federais brasileiros das 54ª e 55ª legislaturas, \emph {por Marcus Abílio Pereira, Helga do Nascimento de Almeida e Iara Lima Vianna}}{55}
+\contentsline {chapter}{O que as lideranças políticas brasileiras pensam sobre as redes tecnossociais, \emph {por Vera Chaia (PUC/SP), Rosemary Segurado (PUC/SP), Tathiana Chicarino (PUC/SP) e Joyce Miranda Leão Martins}}{81}
+\contentsline {part}{Ciberativismo: Participação, Mobilização e Ativismo Online}{115}
+\contentsline {chapter}{Participação cidadã e o uso das Tecnologias de Informação e Comunicação pela ABONG, \emph {por Claudio Luis de Camargo Penteado, Marcelo Burgos Pimentel dos Santos e Rafael de Paulo Aguiar Araújo}}{117}
+\contentsline {chapter}{O Ocupa Sampa, os \emph {Indignados} de São Paulo: usos e limites das tecnologias digitais de comunicação, participação no movimento global e a importância do espaço público, \emph {por Rita de Cássia Alves Oliveira}}{151}
+\contentsline {chapter}{Multidão Ciborgue e Império Patriarcal, \emph {por Rosemary Segurado e Claudia Ferraz}}{179}
+\contentsline {part}{Cibercultura: Modulação, Desinformação e Pesquisa}{207}
+\contentsline {chapter}{Tecnologias de modulação e formatação da opinião em rede, \emph {por Débora Machado, Joyce Souza e Sergio Amadeu da Silveira}}{209}
+\contentsline {chapter}{O ``efeito mola'' e a desinformação: as narrativas efêmeras da nova direita nas redes sociais, \emph {por Pollyana Ferrari Teixeira e Alberto Freitas Filho}}{237}
+\contentsline {chapter}{Ciberpolítica, Ciberativismo e Cibercultura: Uma análise dos \emph {papers} apresentados no grupo de trabalho da ANPOCS, \emph {por Rafael Cardoso Sampaio, Isabele Mitozo, Michele Goulart Massuchin, Giulia Sbaraini Fontes e Cláudio Luis de Camargo Penteado}}{257}
+\contentsfinish 
