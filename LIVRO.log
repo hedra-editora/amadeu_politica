@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 OCT 2019 16:23
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 OCT 2019 17:19
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1763,24 +1763,19 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) [3] [4
 
 ] (./LIVRO.toc
-Underfull \hbox (badness 2096) in paragraph at lines 33--33
+Underfull \hbox (badness 2096) in paragraph at lines 46--46
 []|\TU/SwiftNeueLTPro(0)/m/n/9 Mul-ti-dão Ci-bor-gue e Im-pé-rio Pa-tri-ar-ca
 l, \TU/SwiftNeueLTPro(0)/m/it/9 por Ro-se-mary 
  []
 
 [5]
-Overfull \hbox (0.28998pt too wide) detected at line 36
- \TU/SwiftNeueLTPro(0)/m/n/10 207
+Overfull \hbox (0.26997pt too wide) detected at line 58
+ \TU/SwiftNeueLTPro(0)/m/n/10 247
  []
 
 
-Overfull \hbox (0.71999pt too wide) detected at line 37
- \TU/SwiftNeueLTPro(0)/m/n/10 209
- []
-
-
-Overfull \hbox (0.18997pt too wide) detected at line 44
- \TU/SwiftNeueLTPro(0)/m/n/10 237
+Overfull \hbox (0.74998pt too wide) detected at line 62
+ \TU/SwiftNeueLTPro(0)/m/n/10 269
  []
 
 ) [6]
@@ -1805,15 +1800,109 @@ Overfull \vbox (8.50453pt too high) has occurred while \output is active []
 Overfull \vbox (1.77498pt too high) has occurred while \output is active []
 
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
-[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54
+[29]
+<./imgs/graf1.png, id=100, pagebox=cropbox, 869.2475pt x 604.2575pt>
+File: ./imgs/graf1.png Graphic file (type png)
+<use ./imgs/graf1.png>
+Package luatex.def Info: ./imgs/graf1.png  used on input line 593. on input line
+ 593.
+Package luatex.def Info: Requested size: 256.0748pt x 178.0147pt on input line 5
+93.
+ [30] [31<./imgs/graf1.png>] [32] [33] [34]
+<./imgs/graf2.png, id=117, pagebox=cropbox, 628.3475pt x 502.87875pt>
+File: ./imgs/graf2.png Graphic file (type png)
+<use ./imgs/graf2.png>
+Package luatex.def Info: ./imgs/graf2.png  used on input line 718. on input line
+ 718.
+Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
+718.
+ [35<./imgs/graf2.png>]
+<./imgs/graf3.png, id=121, pagebox=cropbox, 628.3475pt x 502.87875pt>
+File: ./imgs/graf3.png Graphic file (type png)
+<use ./imgs/graf3.png>
+Package luatex.def Info: ./imgs/graf3.png  used on input line 761. on input line
+ 761.
+Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
+761.
+ [36]
+[37<./imgs/graf3.png>]
+Overfull \vbox (6.71043pt too high) has occurred while \output is active []
 
-] [55]
+
+[38]
+Overfull \vbox (3.92491pt too high) has occurred while \output is active []
+
+
+[39]
+<./imgs/graf4.png, id=134, pagebox=cropbox, 628.3475pt x 502.87875pt>
+File: ./imgs/graf4.png Graphic file (type png)
+<use ./imgs/graf4.png>
+Package luatex.def Info: ./imgs/graf4.png  used on input line 870. on input line
+ 870.
+Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
+870.
+ [40] [41<./imgs/graf4.png>] [42]
+<./imgs/graf5.png, id=145, pagebox=cropbox, 628.3475pt x 502.87875pt>
+File: ./imgs/graf5.png Graphic file (type png)
+<use ./imgs/graf5.png>
+Package luatex.def Info: ./imgs/graf5.png  used on input line 932. on input line
+ 932.
+Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
+932.
+ [43<./imgs/graf5.png>]
+<./imgs/graf6_1.png, id=149, pagebox=cropbox, 832.10875pt x 575.14874pt>
+File: ./imgs/graf6_1.png Graphic file (type png)
+<use ./imgs/graf6_1.png>
+Package luatex.def Info: ./imgs/graf6_1.png  used on input line 969. on input li
+ne 969.
+Package luatex.def Info: Requested size: 256.0748pt x 176.9954pt on input line 9
+69.
+<./imgs/graf6_2.png, id=150, pagebox=cropbox, 829.0975pt x 585.18625pt>
+File: ./imgs/graf6_2.png Graphic file (type png)
+<use ./imgs/graf6_2.png>
+Package luatex.def Info: ./imgs/graf6_2.png  used on input line 976. on input li
+ne 976.
+Package luatex.def Info: Requested size: 256.0748pt x 180.73616pt on input line 
+976.
+<./imgs/graf6_3.png, id=151, pagebox=cropbox, 876.27374pt x 610.28pt>
+File: ./imgs/graf6_3.png Graphic file (type png)
+<use ./imgs/graf6_3.png>
+Package luatex.def Info: ./imgs/graf6_3.png  used on input line 983. on input li
+ne 983.
+Package luatex.def Info: Requested size: 256.0748pt x 178.34554pt on input line 
+983.
+<./imgs/graf6_4.png, id=152, pagebox=cropbox, 874.26625pt x 597.23125pt>
+File: ./imgs/graf6_4.png Graphic file (type png)
+<use ./imgs/graf6_4.png>
+Package luatex.def Info: ./imgs/graf6_4.png  used on input line 990. on input li
+ne 990.
+Package luatex.def Info: Requested size: 256.0748pt x 174.9332pt on input line 9
+90.
+ [44] [45<./imgs/graf6_1.png><./imgs/graf6_2.png>] [46<./imgs/graf6_3.png><./img
+s/graf6_4.png>]
+[47] [48]
+<./imgs/fig1.png, id=168, pagebox=cropbox, 689.57625pt x 619.31375pt>
+File: ./imgs/fig1.png Graphic file (type png)
+<use ./imgs/fig1.png>
+Package luatex.def Info: ./imgs/fig1.png  used on input line 1071. on input line
+ 1071.
+Package luatex.def Info: Requested size: 256.0748pt x 229.98354pt on input line 
+1071.
+File: ./imgs/graf2.png Graphic file (type png)
+<use ./imgs/graf2.png>
+Package luatex.def Info: ./imgs/graf2.png  used on input line 1078. on input lin
+e 1078.
+Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
+1078.
+ [49] [50<./imgs/fig1.png>] [51] [52] [53] [54] [55] [56] [57]
+[58] [59] [60
+
+] [61]
 Overfull \vbox (17.10439pt too high) has occurred while \output is active []
 
 
-[56] [57]
-Underfull \hbox (badness 10000) in paragraph at lines 1390--1390
+[62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 1449--1449
 []\TU/SwiftNeueLTPro(0)/m/n/8 3. []\TU/SwiftNeueLTPro(0)/m/it/8 https://www.ne-
 xo-jor-nal.com.br/ex-presso/2018/11/17/Qual-a-
  []
@@ -1822,227 +1911,252 @@ xo-jor-nal.com.br/ex-presso/2018/11/17/Qual-a-
 Overfull \vbox (8.14832pt too high) has occurred while \output is active []
 
 
-[58]
+[64]
 Overfull \vbox (7.6144pt too high) has occurred while \output is active []
 
 
-[59] [60] [61] [62]
+[65] [66] [67] [68]
 Overfull \vbox (13.31854pt too high) has occurred while \output is active []
 
 
-[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 2045--2050
+[69] [70]
+<./imgs/graf2_1.png, id=238, pagebox=cropbox, 418.56375pt x 338.26375pt>
+File: ./imgs/graf2_1.png Graphic file (type png)
+<use ./imgs/graf2_1.png>
+Package luatex.def Info: ./imgs/graf2_1.png  used on input line 1623. on input l
+ine 1623.
+Package luatex.def Info: Requested size: 256.0748pt x 206.94447pt on input line 
+1623.
+ [71<./imgs/graf2_1.png>]
+<./imgs/graf2_2.png, id=243, pagebox=cropbox, 485.815pt x 293.095pt>
+File: ./imgs/graf2_2.png Graphic file (type png)
+<use ./imgs/graf2_2.png>
+Package luatex.def Info: ./imgs/graf2_2.png  used on input line 1648. on input l
+ine 1648.
+Package luatex.def Info: Requested size: 256.0748pt x 154.48987pt on input line 
+1648.
+ [72<./imgs/graf2_2.png>] [73] [74] [75]
+[76] [77] [78] [79] [80] [81] [82] [83] [84]
+Underfull \hbox (badness 1354) in paragraph at lines 2047--2052
+\TU/SwiftNeueLTPro(0)/m/n/10 ment web-si-tes and po-li-ti-cal en-ga-ge-ment: fa
+-ci-li-ta-ting
+ []
+
+[85]
+Underfull \hbox (badness 2671) in paragraph at lines 2090--2093
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 \TU/SwiftNeueLTPro(0)/m/n/10 , Car-
+los Ra-nulfo. (2000) ``Par-ti-dos e mi-gra-ção
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 2114--2119
 \TU/SwiftNeueLTPro(0)/m/n/10 em: <c2d.unige.ch/int/Over-vi-ewIns-tits/Main_Re-p
 ort_fi
  []
 
-[79]
-Underfull \hbox (badness 1412) in paragraph at lines 2056--2060
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 ---\TU/SwiftNeueL
-TPro(0)/m/n/10 , Mag-da-lena E.; \TU/SwiftNeueLTPro(0)/m/sc/10 \TU/
-SwiftNeueLTPro(0)/m/n/10 , Di-ana C. (2009)
- []
+[87] [88] [89
 
-[80] [81
-
-] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91]
+] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
 Overfull \vbox (15.88895pt too high) has occurred while \output is active []
 
 
-[92] [93] [94] [95] [96] [97]
+[100] [101] [102] [103] [104] [105]
 Overfull \vbox (2.53487pt too high) has occurred while \output is active []
 
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono9-regular.luc) [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [10
-8]
-Overfull \vbox (8.50453pt too high) has occurred while \output is active []
+ono9-regular.luc) [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
+[116] [117] [118] [119] [120] [121] [122] [123
 
+] [124] [125
 
-[109] [110] [111] [112] [113] [114] [115
-
-] [116] [117
-
-] [118] [119] [120]
-[121] [122] [123] [124] [125] [126]
+] [126] [127]
+[128] [129] [130] [131] [132] [133] [134]
 Overfull \vbox (8.94856pt too high) has occurred while \output is active []
 
 
-[127] [128]
+[135] [136]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 3471.
- [129] [130] [131] [132] [133] [134]
+(Font)              <9> on input line 3543.
+ [137] [138] [139] [140] [141] [142]
 Overfull \vbox (2.4005pt too high) has occurred while \output is active []
 
 
-[135] [136] [137] [138] [139] [140]
+[143] [144] [145] [146] [147] [148]
 Overfull \vbox (21.47432pt too high) has occurred while \output is active []
 
 
-[141] [142] [143]
+[149] [150] [151]
 Overfull \vbox (9.62247pt too high) has occurred while \output is active []
 
 
-[144] [145] [146] [147] [148] [149] [150] [151
+[152] [153] [154] [155] [156] [157] [158] [159
 
-] [152] [153] [154]
+] [160]
+Overfull \vbox (10.46944pt too high) has occurred while \output is active []
+
+
+[161] [162]
 Overfull \vbox (13.6748pt too high) has occurred while \output is active []
 
 
-[155]
+[163]
 Overfull \vbox (3.31447pt too high) has occurred while \output is active []
 
 
-[156] [157] [158] [159] [160] [161]
-Overfull \vbox (10.5805pt too high) has occurred while \output is active []
+[164] [165] [166] [167] [168]
+Overfull \vbox (0.4245pt too high) has occurred while \output is active []
 
 
-[162]
-Overfull \vbox (21.47432pt too high) has occurred while \output is active []
+[169]
+Overfull \vbox (20.5284pt too high) has occurred while \output is active []
 
 
-[163] [164]
-Underfull \hbox (badness 10000) in paragraph at lines 4498--4498
+[170]
+Overfull \vbox (12.80447pt too high) has occurred while \output is active []
+
+
+[171] [172]
+Underfull \hbox (badness 10000) in paragraph at lines 4571--4571
 []\TU/SwiftNeueLTPro(0)/m/n/8 14. []Con-fe-rên-cia de Ma-nuel Cas-tells no eve
 nto in-ter-na-ci-o-nal
  []
 
-
-Overfull \vbox (2.4705pt too high) has occurred while \output is active []
-
-
-[165]
-Overfull \vbox (0.41447pt too high) has occurred while \output is active []
-
-
-[166] [167] [168] [169]
-Overfull \vbox (4.79146pt too high) has occurred while \output is active []
-
-
-[170] [171] [172] [173] [174] [175] [176]
-Underfull \hbox (badness 10000) in paragraph at lines 4906--4910
+[173] [174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184]
+Underfull \hbox (badness 10000) in paragraph at lines 4979--4983
 \TU/SwiftNeueLTPro(0)/m/it/10 a-rio.es/opi-nion/Gamonal-Burgos-15M-efectoGamona
 l-Gezi_Park-
  []
 
-[177] [178]
+[185] [186] [187] [188
+
+]
 Overfull \vbox (0.52203pt too high) has occurred while \output is active []
 
 
-[179
-
-] [180]
+[189] [190]
 Overfull \vbox (7.80522pt too high) has occurred while \output is active []
 
 
-[181] [182] [183] [184] [185] [186] [187] [188] [189]
+[191] [192] [193] [194] [195] [196] [197] [198] [199]
 Overfull \vbox (5.10475pt too high) has occurred while \output is active []
 
 
-[190] [191] [192] [193] [194]
+[200] [201] [202] [203] [204]
 Overfull \vbox (5.10475pt too high) has occurred while \output is active []
 
 
-[195]
+[205]
 Overfull \vbox (7.59439pt too high) has occurred while \output is active []
 
 
-[196]
+[206]
 Overfull \vbox (1.70499pt too high) has occurred while \output is active []
 
 
-[197] [198]
+[207] [208]
 Overfull \vbox (10.30484pt too high) has occurred while \output is active []
 
 
-[199]
+[209]
 Overfull \vbox (7.60439pt too high) has occurred while \output is active []
 
 
-[200]
-Underfull \hbox (badness 10000) in paragraph at lines 5613--5613
+[210]
+Underfull \hbox (badness 10000) in paragraph at lines 5686--5686
 []\TU/SwiftNeueLTPro(0)/m/n/8 15. []Dis-po-ní-vel em: \TU/SwiftNeueLTPro(0)/m/
 it/8 http://ago-ra-e-que-sa-o-e-las.blog-fo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5613--5613
+Underfull \hbox (badness 10000) in paragraph at lines 5686--5686
 \TU/SwiftNeueLTPro(0)/m/it/8 lha.uol.com.br/2016/10/03/candidatas-eleitoras-e-e
 leicoes-pensar-a-partida-rumo-a-
  []
 
-[201]
+[211]
 Overfull \vbox (10.31483pt too high) has occurred while \output is active []
 
 
-[202] [203]
-Underfull \hbox (badness 10000) in paragraph at lines 5713--5716
+[212] [213]
+Underfull \hbox (badness 10000) in paragraph at lines 5787--5790
 \TU/SwiftNeueLTPro(0)/m/n/10 qui-vos/mulheres-chefes-de-familia-no-brasil-estud
 o-sobre-
  []
 
-[204]
-Underfull \hbox (badness 5563) in paragraph at lines 5727--5730
+
+Underfull \hbox (badness 3965) in paragraph at lines 5791--5794
+\TU/SwiftNeueLTPro(0)/m/n/10 ní-vel em: \TU/SwiftNeueLTPro(0)/m/it/10 http://c
+ul-tu-ra-di-gi-tal.br/ar-te-do-ci-bri-dismo/fi-cha-men-
+ []
+
+[214]
+Underfull \hbox (badness 1502) in paragraph at lines 5801--5804
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 \TU/SwiftNeueLTPro(0)/m/n/10 
+, Achille; Ne-cro-po-li-tics. Trans-la-ted by Libby
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 5801--5804
 \TU/SwiftNeueLTPro(0)/m/n/10 Meint-jes, Duke Uni-ver-sit, 2003 \TU/SwiftNeueLTP
 ro(0)/m/it/10 In: https://www.dart-
  []
 
 
-Overfull \hbox (0.10211pt too wide) in paragraph at lines 5736--5740
+Overfull \hbox (0.10211pt too wide) in paragraph at lines 5810--5814
 \TU/SwiftNeueLTPro(0)/m/it/10 elo.br/sci-elo.php?script=sci_art-text&pid=S0104-
 026X2011000100002\TU/SwiftNeueLTPro(0)/m/n/10 .
  []
 
 
-Overfull \hbox (15.88455pt too wide) in paragraph at lines 5754--5756
+Overfull \hbox (0.54456pt too wide) in paragraph at lines 5828--5830
 []\TU/SwiftNeueLTPro(0)/m/it/10 www.re-se-ar-ch-gate.net/pu-bli-ca-tion/2906092
 11_The_Dark_Side_of_Di-
  []
 
 
-Overfull \hbox (10.02972pt too wide) in paragraph at lines 5754--5756
+Overfull \hbox (10.02972pt too wide) in paragraph at lines 5828--5830
 \TU/SwiftNeueLTPro(0)/m/it/10 gi-tal_Po-li-tics_Un-ders-tan-ding_the_Al-go-rith
 -mic_Ma-nu-fac-tu-ring_of_Con-
  []
 
-[205] [206] [207
+[215] [216] [217
 
-] [208]
+] [218]
 Overfull \vbox (20.4759pt too high) has occurred while \output is active []
 
 
-[209
+[219
 
-] [210]
+] [220]
 Overfull \vbox (13.17847pt too high) has occurred while \output is active []
 
 
-[211] [212] [213] [214] [215]
+[221] [222] [223] [224] [225]
 Overfull \vbox (16.27043pt too high) has occurred while \output is active []
 
 
-[216] [217] [218]
+[226] [227] [228]
 Overfull \vbox (19.28076pt too high) has occurred while \output is active []
 
 
-[219] [220]
+[229] [230]
 Overfull \vbox (17.5909pt too high) has occurred while \output is active []
 
 
-[221]
+[231]
 Overfull \vbox (7.95297pt too high) has occurred while \output is active []
 
 
-[222]
+[232]
 Overfull \vbox (7.6044pt too high) has occurred while \output is active []
 
 
-[223] [224]
+[233] [234]
 Overfull \vbox (1.05443pt too high) has occurred while \output is active []
 
 
-[225] [226]
-Overfull \hbox (9.42044pt too wide) in paragraph at lines 6293--6332
+[235] [236]
+Overfull \hbox (9.42044pt too wide) in paragraph at lines 6368--6407
 []\TU/SwiftNeueLTPro(0)/m/n/10 Um exem-plo pode ser en-con-trado na pa-tente \T
 U/SwiftNeueLTPro(0)/m/sc/10 \TU/SwiftNeueLT
 Pro(0)/m/n/10 ,
@@ -2052,8 +2166,8 @@ Pro(0)/m/n/10 ,
 Overfull \vbox (8.50455pt too high) has occurred while \output is active []
 
 
-[227] [228]
-Underfull \hbox (badness 10000) in paragraph at lines 6380--6380
+[237] [238]
+Underfull \hbox (badness 10000) in paragraph at lines 6455--6455
 []\TU/SwiftNeueLTPro(0)/m/n/8 es-tão dis-po-ní-veis em https://www.uspto.gov/
 patents-getting-
  []
@@ -2062,114 +2176,102 @@ patents-getting-
 Overfull \vbox (10.35338pt too high) has occurred while \output is active []
 
 
-[229] [230] [231]
+[239] [240] [241]
 Overfull \vbox (10.56279pt too high) has occurred while \output is active []
 
 
-[232]
-Underfull \hbox (badness 10000) in paragraph at lines 6497--6501
+[242]
+Underfull \hbox (badness 10000) in paragraph at lines 6573--6577
 \TU/SwiftNeueLTPro(0)/m/n/10 ges-ti-ons+and+other+con-tent+for+mes-sa-ging+ap-p
 li-ca-ti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6497--6501
+Underfull \hbox (badness 10000) in paragraph at lines 6573--6577
 \TU/SwiftNeueLTPro(0)/m/n/10 ons%22&oq=%22Au-to-ma-tic+sug-ges-ti-ons+and+other
 +con-
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 6505--6509
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 -\TU/SwiftNeueLTPro(0)/m/n
-/10 , M. D.; \TU/SwiftNeueLTPro(0)/m/sc/10 --\TU/Swi
-ftNeueLTPro(0)/m/n/10 , R. \TU/SwiftNeueLTPro(0)/m/it/10 Sug-ges-ting se-arch
+Overfull \hbox (68.9437pt too wide) in paragraph at lines 6581--6585
+\TU/SwiftNeueLTPro(0)/m/n/10 <https://pa-tents.go-o-gle.com/pa-tent/US10002168B
+2/en?q=G06F17%2f00&q=so-
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 6505--6509
-\TU/SwiftNeueLTPro(0)/m/it/10 re-sults to users be-fore re-cei-ving any se-arch
- query from the
+Underfull \hbox (badness 10000) in paragraph at lines 6581--6585
+\TU/SwiftNeueLTPro(0)/m/n/10 cial+network&as-sig-nee=Fa-ce-book%2c+Inc.,Lin-ke-
+din+Cor-po-
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 6505--6509
-\TU/SwiftNeueLTPro(0)/m/it/10 users\TU/SwiftNeueLTPro(0)/m/n/10 . Dis-po-ní-ve
-l em: <https://pa-tents.go-o-gle.com/pa-
+Overfull \hbox (56.73656pt too wide) in paragraph at lines 6581--6585
+\TU/SwiftNeueLTPro(0)/m/n/10 ra-tion&af-ter=pu-bli-ca-tion:20140101&sta-tus=GRA
+NT&sort=new&page=12>.
  []
 
-
-Overfull \hbox (8.12114pt too wide) in paragraph at lines 6505--6509
-\TU/SwiftNeueLTPro(0)/m/n/10 tent/US10002168B2/en?q=G06F17%2f00&q=so-cial+netwo
-rk&as-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6505--6509
-\TU/SwiftNeueLTPro(0)/m/n/10 bli-ca-tion:20140101&sta-tus=GRANT&sort=new&page=1
-2>.
- []
-
-[233]
-Underfull \hbox (badness 10000) in paragraph at lines 6521--6526
+[243]
+Underfull \hbox (badness 10000) in paragraph at lines 6597--6602
 \TU/SwiftNeueLTPro(0)/m/n/10 tent/US9740752B2/en?q=G06F17%2f00&q=beha-vior&as-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6521--6526
+Underfull \hbox (badness 10000) in paragraph at lines 6597--6602
 \TU/SwiftNeueLTPro(0)/m/n/10 sig-nee=Fa-ce-book&coun-try=WO,US&sta-tus=GRANT&la
 n-
  []
 
 
-Overfull \hbox (0.9259pt too wide) in paragraph at lines 6521--6526
+Overfull \hbox (0.9259pt too wide) in paragraph at lines 6597--6602
 \TU/SwiftNeueLTPro(0)/m/n/10 guage=EN-GLISH&type=PA-TENT&sort=new&page=1>. Aces
 so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6533--6538
-\TU/SwiftNeueLTPro(0)/m/n/10 90-of-facebooks-advertising-revenue-now-comes-from
--
+Underfull \hbox (badness 10000) in paragraph at lines 6615--6621
+\TU/SwiftNeueLTPro(0)/m/n/10 <\TU/SwiftNeueLTPro(0)/m/it/10 https://re-vis-tas.
+ufrj.br/in-dex.php/eco_pos/ar-ti-cle/view/2662/2251\TU/SwiftNeueLTPro(0)/m/n/10
+ >.
  []
 
-
-Overfull \hbox (156.15898pt too wide) in paragraph at lines 6546--6550
+[244]
+Overfull \hbox (156.15898pt too wide) in paragraph at lines 6622--6626
 \TU/SwiftNeueLTPro(0)/m/n/10 <https://pa-tents.go-o-gle.com/pa-tent/US9043400B2
 /en?q=%22G06Q50%2f01%22,G06F17%2f00+&as-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6546--6550
+Underfull \hbox (badness 10000) in paragraph at lines 6622--6626
 \TU/SwiftNeueLTPro(0)/m/n/10 sig-nee=Fa-ce-book%2c+Inc.&af-ter=pri-o-rity:20150
 101&sta-
  []
 
-[234]
-Underfull \hbox (badness 10000) in paragraph at lines 6561--6565
+
+Underfull \hbox (badness 10000) in paragraph at lines 6637--6641
 \TU/SwiftNeueLTPro(0)/m/n/10 tics/271258/facebooks-advertising-revenue-worldwid
 e/>.
  []
 
 
-Overfull \hbox (20.582pt too wide) in paragraph at lines 6578--6583
+Overfull \hbox (20.582pt too wide) in paragraph at lines 6654--6659
 \TU/SwiftNeueLTPro(0)/m/n/10 tent/US9553939B2/en?q=%22G06Q50%2f01%22,G06F17%2f0
 0+&as-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6578--6583
+Underfull \hbox (badness 10000) in paragraph at lines 6654--6659
 \TU/SwiftNeueLTPro(0)/m/n/10 sig-nee=Fa-ce-book%2c+Inc.&af-ter=pri-o-rity:20150
 101&sta-
  []
 
-[235] [236] [237
+[245] [246] [247
 
-] [238] [239] [240] [241] [242] [243] [244] [245]
+] [248] [249] [250] [251] [252] [253] [254] [255]
 Overfull \vbox (3.03456pt too high) has occurred while \output is active []
 
 
-[246]
-Underfull \hbox (badness 10000) in paragraph at lines 6918--6918
+[256]
+Underfull \hbox (badness 10000) in paragraph at lines 6996--6996
 []\TU/SwiftNeueLTPro(0)/m/n/8 3. []\TU/SwiftNeueLTPro(0)/m/it/8 https://tab.uol
 .com.br/edi-cao/meme-e-textao#tematico-1?cm-pid=co-pi-a-e-cola\TU/SwiftNeueLTPr
 o(0)/m/n/8 .
@@ -2179,47 +2281,55 @@ o(0)/m/n/8 .
 Overfull \vbox (21.47432pt too high) has occurred while \output is active []
 
 
-[247] [248]
+[257] [258]
 Overfull \vbox (9.55246pt too high) has occurred while \output is active []
 
 
-[249] [250] [251] [252]
-Underfull \hbox (badness 10000) in paragraph at lines 7105--7105
+[259] [260] [261]
+<./imgs/fig3.png, id=837, pagebox=cropbox, 658.46pt x 456.70625pt>
+File: ./imgs/fig3.png Graphic file (type png)
+<use ./imgs/fig3.png>
+Package luatex.def Info: ./imgs/fig3.png  used on input line 7129. on input line
+ 7129.
+Package luatex.def Info: Requested size: 256.0748pt x 177.61296pt on input line 
+7129.
+ [262<./imgs/fig3.png>] [263]
+Underfull \hbox (badness 10000) in paragraph at lines 7189--7189
 []\TU/SwiftNeueLTPro(0)/m/n/8 5. []\TU/SwiftNeueLTPro(0)/m/it/8 https://www.ted
 .com/talks/ca-role_cadwal-ladr_fa-ce-book_s_role_in_bre-
  []
 
-[253]
-Underfull \hbox (badness 10000) in paragraph at lines 7134--7139
+[264]
+Underfull \hbox (badness 3735) in paragraph at lines 7219--7224
+\TU/SwiftNeueLTPro(0)/m/n/10 ní-vel em: <https://no-ti-cias.uol.com.br/con-fer
+e/ultimas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7219--7224
 \TU/SwiftNeueLTPro(0)/m/n/10 noticias/2017/12/12/pepsi-vai-usar-bolsonaro-nas-l
 atas-apos-
  []
 
-[254]
-Underfull \hbox (badness 10000) in paragraph at lines 7140--7147
+
+Underfull \hbox (badness 10000) in paragraph at lines 7225--7232
 \TU/SwiftNeueLTPro(0)/m/n/10 content/uplo-ads/2017/08/Robos-redes-sociais-polit
 ica-fgv-
  []
 
 
-Overfull \hbox (52.7997pt too wide) in paragraph at lines 7151--7155
+Underfull \hbox (badness 4595) in paragraph at lines 7236--7240
+\TU/SwiftNeueLTPro(0)/m/n/10 vel em: <https://bra-sil.el-pais.com/bra-sil/2018/
+02/07/cul-
+ []
+
+
+Overfull \hbox (52.7997pt too wide) in paragraph at lines 7236--7240
 \TU/SwiftNeueLTPro(0)/m/n/10 tura/1517989873_086219.html?fb-clid=IwAR0Exf0PRqJj
 BU3AZnfF32OXyA-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 7156--7162
-\TU/SwiftNeueLTPro(0)/m/n/10 ter-cept.com/2018/07/14/para-retratar-gays-como-pe
-dofilos-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7156--7162
-\TU/SwiftNeueLTPro(0)/m/n/10 carlos-bolsonaro-posta-no-twitter-cartaz-falso-ha-
-muito-
- []
-
-[255
+[265
 Missing character: There is no ̂ (U+0302) in font SwiftNeueLTPro:mode=node;scri
 pt=latn;language=DFLT;+tlig;!
 Missing character: There is no ́ (U+0301) in font SwiftNeueLTPro:mode=node;scri
@@ -2229,60 +2339,98 @@ pt=latn;language=DFLT;+tlig;!
 Missing character: There is no ̀ (U+0300) in font SwiftNeueLTPro:mode=node;scri
 pt=latn;language=DFLT;+tlig;!
 ]
-Underfull \hbox (badness 2376) in paragraph at lines 7175--7180
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 \TU/SwiftNeueLTPro(0)/m/n/10 , P
-a-trí-cia. Ca-pi-ta-lismo es-cla-re-cido e po-pu-
+Underfull \hbox (badness 1348) in paragraph at lines 7241--7247
+[]\TU/SwiftNeueLTPro(0)/m/sc/10 -\TU/SwiftNeueLTPro(
+0)/m/n/10 , Glenn. Para re-tra-tar gays como pe-dó-fi-
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 7175--7180
-\TU/SwiftNeueLTPro(0)/m/n/10 Steve Ban-non. \TU/SwiftNeueLTPro(0)/m/it/10 Fo-lh
-a de S. Paulo\TU/SwiftNeueLTPro(0)/m/n/10 , São Paulo, 29 out.
+Underfull \hbox (badness 10000) in paragraph at lines 7241--7247
+\TU/SwiftNeueLTPro(0)/m/n/10 ter-cept.com/2018/07/14/para-retratar-gays-como-pe
+dofilos-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7175--7180
-\TU/SwiftNeueLTPro(0)/m/n/10 lha.uol.com.br/po-der/2018/10/capitalismo-esclarec
-ido-e-
+Underfull \hbox (badness 10000) in paragraph at lines 7241--7247
+\TU/SwiftNeueLTPro(0)/m/n/10 carlos-bolsonaro-posta-no-twitter-cartaz-falso-ha-
+muito-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7175--7180
-\TU/SwiftNeueLTPro(0)/m/n/10 populismo-de-bolsonaro-aproximarao-o-brasil-dos-eu
-a-diz-
+Overfull \hbox (8.74823pt too wide) in paragraph at lines 7260--7265
+\TU/SwiftNeueLTPro(0)/m/n/10 der/2018/10/capitalismo-esclarecido-e-populismo-de
+-bolsonaro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7181--7186
+Underfull \hbox (badness 10000) in paragraph at lines 7260--7265
+\TU/SwiftNeueLTPro(0)/m/n/10 aproximarao-o-brasil-dos-eua-diz-steve-bannon.shtm
+l>.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7266--7271
 \TU/SwiftNeueLTPro(0)/m/n/10 sites-paginas-no-facebook-que-podem-influenciar-el
 eicao-
  []
 
-[256] [257
+[266] [267] [268
 
-] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267]
-[268] [269]
+] [269] [270] [271] [272] [273] [274] [275] [276] [277]
+[278] [279] [280] [281]
 Overfull \vbox (21.30446pt too high) has occurred while \output is active []
 
 
-[270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281]
-[282] [283] [284] [285] [286] [287] [288] [289]
-Underfull \hbox (badness 1365) in paragraph at lines 8213--8218
-[]\TU/SwiftNeueLTPro(0)/m/sc/10 --\TU/SwiftNeueLTPro(0)
-/m/n/10 . ``Gen-der in the Glo-bal Re-se-arch Lands-
- []
+[282] [283] [284] [285]
+<./imgs/graf3_1.png, id=913, pagebox=cropbox, 487.8225pt x 295.1025pt>
+File: ./imgs/graf3_1.png Graphic file (type png)
+<use ./imgs/graf3_1.png>
+Package luatex.def Info: ./imgs/graf3_1.png  used on input line 7799. on input l
+ine 7799.
+Package luatex.def Info: Requested size: 256.0748pt x 154.9086pt on input line 7
+799.
+ [286]
+<./imgs/graf3_2.png, id=917, pagebox=cropbox, 632.3625pt x 302.12875pt>
+File: ./imgs/graf3_2.png Graphic file (type png)
+<use ./imgs/graf3_2.png>
+Package luatex.def Info: ./imgs/graf3_2.png  used on input line 7824. on input l
+ine 7824.
+Package luatex.def Info: Requested size: 256.0748pt x 122.34764pt on input line 
+7824.
+ [287<./imgs/graf3_1.png>]
+<./imgs/graf3_3.png, id=921, pagebox=cropbox, 486.81876pt x 295.1025pt>
+File: ./imgs/graf3_3.png Graphic file (type png)
+<use ./imgs/graf3_3.png>
+Package luatex.def Info: ./imgs/graf3_3.png  used on input line 7862. on input l
+ine 7862.
+Package luatex.def Info: Requested size: 256.0748pt x 155.22832pt on input line 
+7862.
+
+Overfull \vbox (3.88309pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 8213--8218
-\TU/SwiftNeueLTPro(0)/m/n/10 areas''. Dis-po-ní-vel em \TU/SwiftNeueLTPro(0)/m
-/it/10 https://www.el-se-vier.com/__data/as-
- []
-
-[290] [291])) [292] 
+[288<./imgs/graf3_2.png>] [289<./imgs/graf3_3.png>] [290]
+<./imgs/graf3_4.png, id=931, pagebox=cropbox, 484.81125pt x 293.095pt>
+File: ./imgs/graf3_4.png Graphic file (type png)
+<use ./imgs/graf3_4.png>
+Package luatex.def Info: ./imgs/graf3_4.png  used on input line 7935. on input l
+ine 7935.
+Package luatex.def Info: Requested size: 256.0748pt x 154.81635pt on input line 
+7935.
+ [291] [292<./imgs/graf3_4.png>]
+<./imgs/graf3_5.png, id=939, pagebox=cropbox, 369.38pt x 367.3725pt>
+File: ./imgs/graf3_5.png Graphic file (type png)
+<use ./imgs/graf3_5.png>
+Package luatex.def Info: ./imgs/graf3_5.png  used on input line 7988. on input l
+ine 7988.
+Package luatex.def Info: Requested size: 256.0748pt x 254.68129pt on input line 
+7988.
+ [293] [294<./imgs/graf3_5.png>] [295] [296] [297] [298] [299]
+[300] [301] [302] [303] [304] [305])) [306] 
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [293
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [307
 
 
 
@@ -2291,7 +2439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[294] [295] [296] [297] [298] [299]) [300
+[308] [309] [310] [311] [312] [313]) [314
 
 ]
 \tf@toc=\write5
@@ -2301,16 +2449,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24423 strings out of 494472
+ 24646 strings out of 494472
  100000,794899 words of node,token memory allocated
- 2856 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 101 glue, 1 penalty, 412 attribute, 195 glue_spec, 
-103 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:1,2:2907,3:188,4:100,5:223,6:4982,7:1464,8:62,9:309,10:27,11:6
+ 2839 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 100 glue, 1 penalty, 408 attribute, 195 glue_spec, 
+102 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:1,2:2907,3:188,4:100,5:226,6:4982,7:1464,8:62,9:309,10:27,11:6
 20
- 27307 multiletter control sequences out of 65536+600000
- 109 fonts using 14136551 bytes
- 50i,12n,70p,1330b,454s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 27413 multiletter control sequences out of 65536+600000
+ 110 fonts using 14236231 bytes
+ 50i,12n,79p,1330b,454s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</home/editorial/texmf/tex/fonts/SwiftNeueLTPr
 o-Italic.otf></home/editorial/texmf/tex/fonts/SwiftNeueLTPro-Bold.otf></home/edi
@@ -2318,10 +2466,10 @@ torial/texmf/tex/fonts/SwiftNeueLTPro-Book.otf></usr/share/texmf-dist/fonts/open
 type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
 nt/lcirclew.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (300 pages, 843710 bytes).
+Output written on LIVRO.pdf (314 pages, 1835386 bytes).
 
-PDF statistics: 988 PDF objects out of 1000 (max. 8388607)
- 662 compressed objects within 7 object streams
+PDF statistics: 1052 PDF objects out of 1200 (max. 8388607)
+ 693 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
