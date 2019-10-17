@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1571345353 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571345365
+["lualatex"] 1571348133 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571348145
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556048766 330551 de924542c69363b693a5e39e6b2aba98 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556048766 287951 a70546de2b03d7b06e7bdf50996f9bc7 ""
@@ -236,13 +236,13 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1571345364 11676 e5925b9e26d41d08465530fd4d3676a2 ""
+  "INPUTS.aux" 1571348144 11690 8c405813ec920b2711a42e5fbfc8c678 ""
   "INPUTS.tex" 1571248947 18 e1146bb02cf3faf2979077d341fb93f1 ""
-  "LIVRO.aux" 1571345365 540 eba98a54d974351ca232948e0101a0ea ""
+  "LIVRO.aux" 1571348144 540 eba98a54d974351ca232948e0101a0ea ""
   "LIVRO.tex" 1571340772 1562 f056c937e874e68f5ba483c3f8f163a1 ""
-  "LIVRO.toc" 1571345365 6991 e288db1f97b58bd3a6b50e883111ddac ""
-  "ORIGINAIS.tex" 1571345339 522487 cbc227a08a354fd89d3d6b43ec8099ac ""
-  "PUBLICIDADE.aux" 1571345365 1748 5f6248295a9bb42fe693c2b6ccd94a9e ""
+  "LIVRO.toc" 1571348144 6991 e288db1f97b58bd3a6b50e883111ddac ""
+  "ORIGINAIS.tex" 1571348132 523217 aac2f7b67b2031050dbe2777b00b39de ""
+  "PUBLICIDADE.aux" 1571348144 1748 5f6248295a9bb42fe693c2b6ccd94a9e ""
   "fichatecnica.sty" 1571249619 2276 a61d65d22c9543b49cd41443163f47d8 ""
   "fronthedra.tex" 1571249708 3942 99815e33fe3deae5beb9e3d28248773b ""
   "gitrevisioninfo.sty" 1571247262 35 bd26ec909bdfa5e6c9b4ee589f1f962a ""
@@ -269,9 +269,9 @@
   "tipografia.sty" 1571248840 10064 4d0051bc79677025ebd30a0186da651e ""
   "toc.sty" 1571247262 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
+  "INPUTS.aux"
+  "LIVRO.log"
   "LIVRO.toc"
   "PUBLICIDADE.aux"
-  "LIVRO.log"
-  "INPUTS.aux"
   "LIVRO.pdf"
   "LIVRO.aux"
