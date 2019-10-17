@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 OCT 2019 19:46
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 OCT 2019 20:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.240 seconds
+luaotfload | main : initialization completed in 0.234 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1880,26 +1880,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1214--1220
 e_al-bu-quer-
  []
 
-[54] [55] [56]
-Underfull \hbox (badness 2111) in paragraph at lines 1313--1317
-\TU/LinuxLibertineO(0)/m/n/12 po-ní-vel em: http://www.cies.iscte.pt/np4/?new-
-sId=453&fi-le-
- []
-
-[57] [58] [59] [60] [61
+[54] [55] [56] [57] [58] [59] [60] [61
 
 ]
 Overfull \vbox (14.93007pt too high) has occurred while \output is active []
 
 
-[62] [63]
-Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
-[]\TU/LinuxLibertineO(0)/m/n/10 3. []\TU/LinuxLibertineO(0)/m/it/10 https://www
-.ne-xo-jor-nal.com.br/ex-presso/2018/11/17/Qual-a-
- []
-
-[64]
-Overfull \vbox (10.20715pt too high) has occurred while \output is active []
+[62] [63] [64]
+Overfull \vbox (2.93007pt too high) has occurred while \output is active []
 
 
 [65] [66] [67]
@@ -1931,16 +1919,10 @@ Overfull \vbox (9.37822pt too high) has occurred while \output is active []
 
 
 [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
-Overfull \hbox (17.23436pt too wide) in paragraph at lines 2155--2158
+Overfull \hbox (47.64667pt too wide) in paragraph at lines 2155--2158
 \TU/LinuxLibertineO(0)/m/n/12 câ-mara dos de-pu-ta-dos''. \TU/LinuxLibertineO(
 0)/m/it/12 Da-dos\TU/LinuxLibertineO(0)/m/n/12 , Rio de Ja-neiro,  v.43, n.2.\T
-U/LinuxLibertineO(0)/m/it/12 http://www.sci-
- []
-
-
-Overfull \hbox (83.61887pt too wide) in paragraph at lines 2155--2158
-\TU/LinuxLibertineO(0)/m/it/12 elo.br/sci-elo.php?script=sci_art-text&pid=S0011
--52582000000200001&lng=en&nrm=iso 
+U/LinuxLibertineO(0)/m/it/12 https://bit.ly/32o4xRJ 
  []
 
 
@@ -1979,7 +1961,7 @@ Overfull \vbox (11.68517pt too high) has occurred while \output is active []
 
 
 [143] [144] [145] [146] [147] [148]
-Overfull \vbox (14.88206pt too high) has occurred while \output is active []
+Overfull \vbox (2.88206pt too high) has occurred while \output is active []
 
 
 [149] [150]
@@ -2005,23 +1987,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 4331--4331
  []
 
 [162]
-Overfull \vbox (3.5076pt too high) has occurred while \output is active []
+Overfull \vbox (8.23051pt too high) has occurred while \output is active []
 
 
 [163]
-Overfull \vbox (10.07515pt too high) has occurred while \output is active []
+Overfull \vbox (10.20715pt too high) has occurred while \output is active []
 
 
-[164] [165]
-Overfull \vbox (0.55841pt too high) has occurred while \output is active []
-
-
-[166] [167] [168]
+[164] [165] [166] [167] [168]
 Overfull \vbox (21.48112pt too high) has occurred while \output is active []
 
 
 [169]
-Overfull \vbox (16.94342pt too high) has occurred while \output is active []
+Overfull \vbox (4.94342pt too high) has occurred while \output is active []
 
 
 [170] [171]
@@ -2030,18 +2008,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4636--4636
 vento in-ter-na-ci-o-nal
  []
 
-
-Underfull \hbox (badness 3838) in paragraph at lines 4636--4636
-\TU/LinuxLibertineO(0)/m/n/10 #Arena\TU/LinuxLibertineO(0)/m/sc/10 \TU
-/LinuxLibertineO(0)/m/n/10 mundia: \TU/LinuxLibertineO(0)/m/it/10 http://www.pa
-r-ti-cipa.br/arena/arena-net-mundial/uma-
- []
-
-[172]
-Overfull \vbox (8.75961pt too high) has occurred while \output is active []
-
-
-[173] [174] [175] [176] [177]
+[172] [173] [174] [175] [176] [177]
 Overfull \vbox (8.9842pt too high) has occurred while \output is active []
 
 
@@ -2049,19 +2016,7 @@ Overfull \vbox (8.9842pt too high) has occurred while \output is active []
 Overfull \vbox (17.8174pt too high) has occurred while \output is active []
 
 
-[181] [182] [183] [184]
-Underfull \hbox (badness 10000) in paragraph at lines 5044--5048
-\TU/LinuxLibertineO(0)/m/it/12 nion/Gamonal-Burgos-15M-efectoGamonal-Gezi_Park-
-DirenGezi-
- []
-
-
-Overfull \hbox (97.2499pt too wide) in paragraph at lines 5044--5048
-\TU/LinuxLibertineO(0)/m/it/12 VemPraRua-PasseLivre-PosMeSalto-derecho_a_la_ciu
-dad-Hamburgo_0_221528212.html 
- []
-
-[185] [186]
+[181] [182] [183] [184] [185] [186]
 Overfull \vbox (7.37459pt too high) has occurred while \output is active []
 
 
@@ -2077,19 +2032,7 @@ Overfull \vbox (12.85733pt too high) has occurred while \output is active []
 
 
 [204]
-Underfull \hbox (badness 2197) in paragraph at lines 5652--5652
-[]\TU/LinuxLibertineO(0)/m/n/10 11. []Dis-po-ní-vel em: \TU/LinuxLibertineO(0)
-/m/it/10 https://www.ca-mara.leg.br/pro-po-si-co-esWeb/prop_au-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5652--5652
-\TU/LinuxLibertineO(0)/m/it/10 to-res;jses-si-o-nid=2DABC4E8440979DD92B3D251483
-4C2B9.pro-po-si-co-esWe-bEx-
- []
-
-
-Overfull \vbox (14.29553pt too high) has occurred while \output is active []
+Overfull \vbox (8.23045pt too high) has occurred while \output is active []
 
 
 [205]
@@ -2115,10 +2058,6 @@ Underfull \hbox (badness 1331) in paragraph at lines 5693--5693
 \TU/LinuxLibertineO(0)/m/n/10 Gê-nero na Amé-rica La-tina e no Ca-ribe, ci-ta
 do no re-la-tó-rio. Dis-po-ní-
  []
-
-
-Overfull \vbox (14.93007pt too high) has occurred while \output is active []
-
 
 [206]
 Overfull \vbox (8.18063pt too high) has occurred while \output is active []
@@ -2461,10 +2400,10 @@ Package luatex.def Info: Requested size: 256.0748pt x 154.81635pt on input line
 <./imgs/graf3_5.png, id=929, pagebox=cropbox, 369.38pt x 367.3725pt>
 File: ./imgs/graf3_5.png Graphic file (type png)
 <use ./imgs/graf3_5.png>
-Package luatex.def Info: ./imgs/graf3_5.png  used on input line 8053. on input l
-ine 8053.
+Package luatex.def Info: ./imgs/graf3_5.png  used on input line 8052. on input l
+ine 8052.
 Package luatex.def Info: Requested size: 256.0748pt x 254.68129pt on input line 
-8053.
+8052.
  [290] [291<./imgs/graf3_5.png>] [292] [293] [294] [295] [296] [297] [298] [299
 ] [300] [301]
 [302])) [303]
@@ -2506,7 +2445,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:2,2:3617,3:212,4:113,5:485,6:4991,7:2255,8:584,9:655,10:28,11:
 620
  27402 multiletter control sequences out of 65536+600000
- 108 fonts using 23722823 bytes
+ 108 fonts using 23722903 bytes
  50i,13n,79p,1330b,455s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
@@ -2516,7 +2455,7 @@ inLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regula
 r.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (308 pages, 1874828 bytes).
+Output written on LIVRO.pdf (308 pages, 1872936 bytes).
 
 PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
  680 compressed objects within 7 object streams

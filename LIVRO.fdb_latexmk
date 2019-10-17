@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1571265961 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571265973
+["lualatex"] 1571267591 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571267603
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556048766 330551 de924542c69363b693a5e39e6b2aba98 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556048766 287951 a70546de2b03d7b06e7bdf50996f9bc7 ""
@@ -228,13 +228,13 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1571265972 11614 371a509b9b7f04d57f6abd1b4d63c144 ""
+  "INPUTS.aux" 1571267602 11614 371a509b9b7f04d57f6abd1b4d63c144 ""
   "INPUTS.tex" 1571248947 18 e1146bb02cf3faf2979077d341fb93f1 ""
-  "LIVRO.aux" 1571265973 540 ef72d598489287f6e1f95868da08fcfc ""
+  "LIVRO.aux" 1571267602 540 ef72d598489287f6e1f95868da08fcfc ""
   "LIVRO.tex" 1571262053 1538 d73c0eb616b2476081a21086457591f4 ""
-  "LIVRO.toc" 1571265973 6947 be1764128a62bcf1956621e453e20cee ""
-  "ORIGINAIS.tex" 1571265946 500447 eefbfc61356993b42c1cdb37af41e37b ""
-  "PUBLICIDADE.aux" 1571265973 1748 7f209f9dc4e098531a48ba51113e261c ""
+  "LIVRO.toc" 1571267602 6947 be1764128a62bcf1956621e453e20cee ""
+  "ORIGINAIS.tex" 1571267564 499664 5aa6a83865db700ec9831e99a5d1da4e ""
+  "PUBLICIDADE.aux" 1571267602 1748 7f209f9dc4e098531a48ba51113e261c ""
   "fichatecnica.sty" 1571249619 2276 a61d65d22c9543b49cd41443163f47d8 ""
   "fronthedra.tex" 1571249708 3942 99815e33fe3deae5beb9e3d28248773b ""
   "gitrevisioninfo.sty" 1571247262 35 bd26ec909bdfa5e6c9b4ee589f1f962a ""
@@ -262,8 +262,8 @@
   "toc.sty" 1571247262 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
   "LIVRO.toc"
+  "PUBLICIDADE.aux"
   "LIVRO.pdf"
   "LIVRO.aux"
-  "LIVRO.log"
   "INPUTS.aux"
-  "PUBLICIDADE.aux"
+  "LIVRO.log"
