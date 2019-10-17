@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 OCT 2019 20:13
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  17 OCT 2019 17:49
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.234 seconds
+luaotfload | main : initialization completed in 0.246 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1520,49 +1520,56 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 \CT@t=\box56
 \@CTcurftwidth=\dimen322
 ))
-(/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty) (./LIVRO.aux
+(/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip272
+\multirow@cntb=\count345
+\multirow@dima=\skip273
+\bigstrutjot=\dimen323
+) (./LIVRO.aux
 (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 54.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 57.
 
 (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 54.
-LaTeX Font Info:    Try loading font information for EU2+lmr on input line 54.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for EU2+lmr on input line 57.
 
 (/usr/share/texmf-dist/tex/latex/euenc/eu2lmr.fd
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 54.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 57.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Info: Redefining \dots on input line 54.
-LaTeX Info: Redefining \up on input line 54.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Info: Redefining \dots on input line 57.
+LaTeX Info: Redefining \up on input line 57.
 Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
-LaTeX Info: Redefining \microtypecontext on input line 54.
+LaTeX Info: Redefining \microtypecontext on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1583,77 +1590,77 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 54.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 54.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 54.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 54.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 54.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 54.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 54.
-LaTeX Font Info:    Redeclaring math accent \check on input line 54.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 54.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 54.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 54.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 54.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 54.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 57.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 57.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 57.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 57.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 57.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 57.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 57.
+LaTeX Font Info:    Redeclaring math accent \check on input line 57.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 57.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 57.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 57.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 57.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 54.
+(Font)              `operators' in the math version `normal' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-54.
+57.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 54.
+(Font)              `operators' in the math version `bold' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 54.
+ 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 54.
+on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 54.
+e 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 54.
+e 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 54.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 54.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 54.
+ on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 54.
+ine 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 54.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 54.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 57.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count345
-\scratchdimen=\dimen323
+\scratchcounter=\count346
+\scratchdimen=\dimen324
 \scratchbox=\box57
-\nofMPsegments=\count346
-\nofMParguments=\count347
+\nofMPsegments=\count347
+\nofMParguments=\count348
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count348
-\MPscratchDim=\dimen324
-\MPnumerator=\count349
-\makeMPintoPDFobject=\count350
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen325
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
 \everyMPtoPDFconversion=\toks40
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1685,7 +1692,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 54.
+(lastpage)             ! on input line 57.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1701,11 +1708,11 @@ ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 57.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
@@ -1715,14 +1722,14 @@ RS)
 <./imgs/creativecommons.png, id=9, pagebox=cropbox, 404.51125pt x 141.52875pt>
 File: ./imgs/creativecommons.png Graphic file (type png)
 <use ./imgs/creativecommons.png>
-Package luatex.def Info: ./imgs/creativecommons.png  used on input line 54. on i
-nput line 54.
-Package luatex.def Info: Requested size: 56.9055pt x 19.9089pt on input line 54.
+Package luatex.def Info: ./imgs/creativecommons.png  used on input line 57. on i
+nput line 57.
+Package luatex.def Info: Requested size: 56.9055pt x 19.9089pt on input line 57.
 
  [2
 
 <./imgs/creativecommons.png>]
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 57.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1767,16 +1774,16 @@ Overfull \hbox (2.98495pt too wide) in paragraph at lines 451--461
 Overfull \vbox (3.30482pt too high) has occurred while \output is active []
 
 
-[26] [27] [28] [29] [30]
-<./imgs/graf1.png, id=103, pagebox=cropbox, 869.2475pt x 604.2575pt>
+[26] [27] [28] [29] [30] [31]
+<./imgs/graf1.png, id=107, pagebox=cropbox, 869.2475pt x 604.2575pt>
 File: ./imgs/graf1.png Graphic file (type png)
 <use ./imgs/graf1.png>
-Package luatex.def Info: ./imgs/graf1.png  used on input line 635. on input line
- 635.
+Package luatex.def Info: ./imgs/graf1.png  used on input line 637. on input line
+ 637.
 Package luatex.def Info: Requested size: 256.0748pt x 178.0147pt on input line 6
-35.
- [31] [32<./imgs/graf1.png>] [33]
-Overfull \hbox (2.998pt too wide) in paragraph at lines 711--729
+37.
+ [32<./imgs/graf1.png>] [33]
+Overfull \hbox (2.998pt too wide) in paragraph at lines 713--731
 [] 
  []
 
@@ -1784,338 +1791,319 @@ Overfull \hbox (2.998pt too wide) in paragraph at lines 711--729
 <./imgs/graf2.png, id=123, pagebox=cropbox, 628.3475pt x 502.87875pt>
 File: ./imgs/graf2.png Graphic file (type png)
 <use ./imgs/graf2.png>
-Package luatex.def Info: ./imgs/graf2.png  used on input line 781. on input line
- 781.
+Package luatex.def Info: ./imgs/graf2.png  used on input line 785. on input line
+ 785.
 Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
-781.
- [37<./imgs/graf2.png>]
-<./imgs/graf3.png, id=127, pagebox=cropbox, 628.3475pt x 502.87875pt>
+785.
+ [37<./imgs/graf2.png>] [38]
+<./imgs/graf3.png, id=130, pagebox=cropbox, 628.3475pt x 502.87875pt>
 File: ./imgs/graf3.png Graphic file (type png)
 <use ./imgs/graf3.png>
-Package luatex.def Info: ./imgs/graf3.png  used on input line 826. on input line
- 826.
+Package luatex.def Info: ./imgs/graf3.png  used on input line 832. on input line
+ 832.
 Package luatex.def Info: Requested size: 312.9803pt x 250.47958pt on input line 
-826.
+832.
 
-Overfull \hbox (2.9803pt too wide) in paragraph at lines 826--827
+Overfull \hbox (2.9803pt too wide) in paragraph at lines 832--833
  [][] 
  []
 
-[38] [39<./imgs/graf3.png>]
-Overfull \vbox (14.28737pt too high) has occurred while \output is active []
+[39<./imgs/graf3.png>] [40]
+Overfull \hbox (2.99767pt too wide) in paragraph at lines 908--926
+[] 
+ []
 
-
-[40]
-Overfull \vbox (8.18242pt too high) has occurred while \output is active []
-
-
-[41]
-<./imgs/graf4.png, id=141, pagebox=cropbox, 628.3475pt x 502.87875pt>
+[41] [42]
+<./imgs/graf4.png, id=144, pagebox=cropbox, 628.3475pt x 502.87875pt>
 File: ./imgs/graf4.png Graphic file (type png)
 <use ./imgs/graf4.png>
-Package luatex.def Info: ./imgs/graf4.png  used on input line 935. on input line
- 935.
+Package luatex.def Info: ./imgs/graf4.png  used on input line 966. on input line
+ 966.
 Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
-935.
- [42] [43<./imgs/graf4.png>]
-<./imgs/graf5.png, id=148, pagebox=cropbox, 628.3475pt x 502.87875pt>
+966.
+ [43] [44<./imgs/graf4.png>]
+Overfull \hbox (2.98758pt too wide) in paragraph at lines 1005--1022
+[] 
+ []
+
+[45]
+<./imgs/graf5.png, id=154, pagebox=cropbox, 628.3475pt x 502.87875pt>
 File: ./imgs/graf5.png Graphic file (type png)
 <use ./imgs/graf5.png>
-Package luatex.def Info: ./imgs/graf5.png  used on input line 997. on input line
- 997.
-Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
-997.
- [44] [45<./imgs/graf5.png>]
-<./imgs/graf6_1.png, id=155, pagebox=cropbox, 832.10875pt x 575.14874pt>
+Package luatex.def Info: ./imgs/graf5.png  used on input line 1050. on input lin
+e 1050.
+Package luatex.def Info: Requested size: 227.62204pt x 182.16418pt on input line
+ 1050.
+ [46<./imgs/graf5.png>] [47]
+<./imgs/graf6_1.png, id=161, pagebox=cropbox, 832.10875pt x 575.14874pt>
 File: ./imgs/graf6_1.png Graphic file (type png)
 <use ./imgs/graf6_1.png>
-Package luatex.def Info: ./imgs/graf6_1.png  used on input line 1034. on input l
-ine 1034.
+Package luatex.def Info: ./imgs/graf6_1.png  used on input line 1089. on input l
+ine 1089.
 Package luatex.def Info: Requested size: 256.0748pt x 176.9954pt on input line 1
-034.
-<./imgs/graf6_2.png, id=156, pagebox=cropbox, 829.0975pt x 585.18625pt>
+089.
+<./imgs/graf6_2.png, id=162, pagebox=cropbox, 829.0975pt x 585.18625pt>
 File: ./imgs/graf6_2.png Graphic file (type png)
 <use ./imgs/graf6_2.png>
-Package luatex.def Info: ./imgs/graf6_2.png  used on input line 1041. on input l
-ine 1041.
+Package luatex.def Info: ./imgs/graf6_2.png  used on input line 1096. on input l
+ine 1096.
 Package luatex.def Info: Requested size: 256.0748pt x 180.73616pt on input line 
-1041.
-<./imgs/graf6_3.png, id=157, pagebox=cropbox, 876.27374pt x 610.28pt>
+1096.
+<./imgs/graf6_3.png, id=163, pagebox=cropbox, 876.27374pt x 610.28pt>
 File: ./imgs/graf6_3.png Graphic file (type png)
 <use ./imgs/graf6_3.png>
-Package luatex.def Info: ./imgs/graf6_3.png  used on input line 1048. on input l
-ine 1048.
+Package luatex.def Info: ./imgs/graf6_3.png  used on input line 1103. on input l
+ine 1103.
 Package luatex.def Info: Requested size: 256.0748pt x 178.34554pt on input line 
-1048.
-<./imgs/graf6_4.png, id=158, pagebox=cropbox, 874.26625pt x 597.23125pt>
+1103.
+<./imgs/graf6_4.png, id=164, pagebox=cropbox, 874.26625pt x 597.23125pt>
 File: ./imgs/graf6_4.png Graphic file (type png)
 <use ./imgs/graf6_4.png>
-Package luatex.def Info: ./imgs/graf6_4.png  used on input line 1055. on input l
-ine 1055.
+Package luatex.def Info: ./imgs/graf6_4.png  used on input line 1110. on input l
+ine 1110.
 Package luatex.def Info: Requested size: 256.0748pt x 174.9332pt on input line 1
-055.
- [46<./imgs/graf6_1.png>] [47<./imgs/graf6_2.png><./imgs/graf6_3.png>] [48<./img
-s/graf6_4.png>]
-[49]
-<./imgs/fig1.png, id=171, pagebox=cropbox, 689.57625pt x 619.31375pt>
-File: ./imgs/fig1.png Graphic file (type png)
-<use ./imgs/fig1.png>
-Package luatex.def Info: ./imgs/fig1.png  used on input line 1136. on input line
- 1136.
-Package luatex.def Info: Requested size: 256.0748pt x 229.98354pt on input line 
-1136.
-File: ./imgs/graf2.png Graphic file (type png)
-<use ./imgs/graf2.png>
-Package luatex.def Info: ./imgs/graf2.png  used on input line 1143. on input lin
-e 1143.
-Package luatex.def Info: Requested size: 256.0748pt x 204.93854pt on input line 
-1143.
- [50]
+110.
+ [48<./imgs/graf6_1.png><./imgs/graf6_2.png>]
+[49<./imgs/graf6_3.png><./imgs/graf6_4.png>] [50] [51]
+warning  (file ./imgs/fig1.pdf) (pdf inclusion): PDF inclusion: found PDF versio
+n '1.7', but at most version '1.5' allowed
+<./imgs/fig1.pdf, id=179, pagebox=cropbox, 610.53094pt x 313.9228pt>
+File: ./imgs/fig1.pdf Graphic file (type pdf)
+<use ./imgs/fig1.pdf>
+Package luatex.def Info: ./imgs/fig1.pdf  used on input line 1192. on input line
+ 1192.
+Package luatex.def Info: Requested size: 312.9803pt x 160.93198pt on input line 
+1192.
 
-LaTeX Warning: Text page 51 contains only floats.
+Overfull \hbox (2.9803pt too wide) in paragraph at lines 1192--1193
+ [][] 
+ []
 
-[51<./imgs/fig1.png>] [52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1220
+[52<./imgs/fig1.pdf>] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1269
 \TU/LinuxLibertineO(0)/m/n/12 http://com-pos.com.pu-crio.br/me-dia/gt3_afonso_d
 e_al-bu-quer-
  []
 
-[54] [55] [56] [57] [58] [59] [60] [61
+[55] [56] [57] [58] [59] [60] [61] [62
 
-]
+] [63]
 Overfull \vbox (14.93007pt too high) has occurred while \output is active []
 
 
-[62] [63] [64]
+[64] [65] [66]
 Overfull \vbox (2.93007pt too high) has occurred while \output is active []
 
 
-[65] [66] [67]
+[67] [68] [69]
 Overfull \vbox (16.5204pt too high) has occurred while \output is active []
 
 
-[68]
+[70]
 Overfull \vbox (21.4521pt too high) has occurred while \output is active []
 
 
-[69]
-<./imgs/graf2_1.png, id=235, pagebox=cropbox, 418.56375pt x 338.26375pt>
+[71] [72]
+<./imgs/graf2_1.png, id=249, pagebox=cropbox, 418.56375pt x 338.26375pt>
 File: ./imgs/graf2_1.png Graphic file (type png)
 <use ./imgs/graf2_1.png>
-Package luatex.def Info: ./imgs/graf2_1.png  used on input line 1688. on input l
-ine 1688.
+Package luatex.def Info: ./imgs/graf2_1.png  used on input line 1740. on input l
+ine 1740.
 Package luatex.def Info: Requested size: 256.0748pt x 206.94447pt on input line 
-1688.
- [70]
-<./imgs/graf2_2.png, id=239, pagebox=cropbox, 485.815pt x 293.095pt>
+1740.
+ [73<./imgs/graf2_1.png>]
+<./imgs/graf2_2.png, id=253, pagebox=cropbox, 485.815pt x 293.095pt>
 File: ./imgs/graf2_2.png Graphic file (type png)
 <use ./imgs/graf2_2.png>
-Package luatex.def Info: ./imgs/graf2_2.png  used on input line 1713. on input l
-ine 1713.
+Package luatex.def Info: ./imgs/graf2_2.png  used on input line 1767. on input l
+ine 1767.
 Package luatex.def Info: Requested size: 256.0748pt x 154.48987pt on input line 
-1713.
- [71<./imgs/graf2_1.png>] [72<./imgs/graf2_2.png>]
-Overfull \vbox (9.37822pt too high) has occurred while \output is active []
+1767.
+ [74<./imgs/graf2_2.png>] [75] [76]
+Overfull \hbox (2.98392pt too wide) in paragraph at lines 1859--1870
+[] 
+ []
 
+[77]
+Overfull \hbox (2.97589pt too wide) in paragraph at lines 1897--1910
+[] 
+ []
 
-[73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
-Overfull \hbox (47.64667pt too wide) in paragraph at lines 2155--2158
+[78]
+Overfull \hbox (2.99078pt too wide) in paragraph at lines 1933--1943
+[] 
+ []
+
+[79]
+Overfull \hbox (2.99802pt too wide) in paragraph at lines 1971--1984
+[] 
+ []
+
+[80]
+Overfull \hbox (3.00107pt too wide) in paragraph at lines 2015--2025
+[] 
+ []
+
+[81]
+Overfull \hbox (3.0019pt too wide) in paragraph at lines 2053--2063
+[] 
+ []
+
+[82] [83] [84] [85] [86] [87] [88] [89]
+Overfull \hbox (47.64667pt too wide) in paragraph at lines 2317--2320
 \TU/LinuxLibertineO(0)/m/n/12 câ-mara dos de-pu-ta-dos''. \TU/LinuxLibertineO(
 0)/m/it/12 Da-dos\TU/LinuxLibertineO(0)/m/n/12 , Rio de Ja-neiro,  v.43, n.2.\T
 U/LinuxLibertineO(0)/m/it/12 https://bit.ly/32o4xRJ 
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 2179--2184
+Underfull \hbox (badness 1292) in paragraph at lines 2341--2346
 \TU/LinuxLibertineO(0)/m/it/12 of new te-ch-no-lo-gies in or-der to fa-ci-li-ta
 te de-mo-cracy in Eu-
  []
 
-[86] [87] [88
+[90] [91] [92
 
-] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
 Overfull \vbox (18.15775pt too high) has occurred while \output is active []
 
 
-[100] [101] [102] [103] [104] [105](load luc: /home/editorial/.texlive/texmf-var
-/luatex-cache/generic/fonts/otl/lmmono10-regular.luc) [106] [107] [108]
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
-[121] [122] [123
+[104] [105] [106] [107] [108] [109](load luc: /home/editorial/.texlive/texmf-var
+/luatex-cache/generic/fonts/otl/lmmono10-regular.luc) [110] [111] [112]
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126] [127
 
-] [124] [125
+] [128] [129
 
-] [126] [127] [128] [129] [130] [131] [132]
-[133]
+] [130] [131] [132] [133] [134] [135] [136]
+[137]
 Overfull \vbox (18.54514pt too high) has occurred while \output is active []
 
 
-[134] [135] [136]
+[138] [139] [140]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3608.
- [137]
+(Font)              <10.95> on input line 3770.
+ [141]
 Overfull \vbox (10.76317pt too high) has occurred while \output is active []
 
 
-[138] [139] [140] [141] [142]
+[142] [143] [144]
+Overfull \hbox (2.98834pt too wide) in paragraph at lines 3878--3887
+[] 
+ []
+
+[145] [146] [147]
 Overfull \vbox (11.68517pt too high) has occurred while \output is active []
 
 
-[143] [144] [145] [146] [147] [148]
+[148] [149] [150] [151] [152] [153]
 Overfull \vbox (2.88206pt too high) has occurred while \output is active []
 
 
-[149] [150]
+[154] [155]
 Overfull \vbox (14.88206pt too high) has occurred while \output is active []
 
 
-[151] [152] [153] [154]
-Underfull \hbox (badness 10000) in paragraph at lines 4099--4106
+[156] [157] [158] [159]
+Underfull \hbox (badness 10000) in paragraph at lines 4273--4280
 \TU/LinuxLibertineO(0)/m/n/12 <http://por-tal.an-pocs.org/por-tal/in-dex.php?op
 -tion=com_doc
  []
 
-[155] [156] [157] [158] [159
+[160] [161] [162] [163] [164
 
-]
-Overfull \vbox (19.60498pt too high) has occurred while \output is active []
-
-
-[160] [161]
-Underfull \hbox (badness 10000) in paragraph at lines 4331--4331
+] [165]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4447.
+ [166] [167] [168]
+Underfull \hbox (badness 10000) in paragraph at lines 4521--4521
 []\TU/LinuxLibertineO(0)/m/n/10 3. []Cf.: \TU/LinuxLibertineO(0)/m/it/10 http:/
 /sa-la-deim-prensa.ibge.gov.br/no-ti-cias?view=no-ti-
  []
 
-[162]
-Overfull \vbox (8.23051pt too high) has occurred while \output is active []
 
-
-[163]
-Overfull \vbox (10.20715pt too high) has occurred while \output is active []
-
-
-[164] [165] [166] [167] [168]
-Overfull \vbox (21.48112pt too high) has occurred while \output is active []
+Overfull \vbox (13.87025pt too high) has occurred while \output is active []
 
 
 [169]
-Overfull \vbox (4.94342pt too high) has occurred while \output is active []
+Overfull \vbox (4.32027pt too high) has occurred while \output is active []
 
 
-[170] [171]
-Underfull \hbox (badness 10000) in paragraph at lines 4636--4636
+[170]
+Overfull \vbox (0.85739pt too high) has occurred while \output is active []
+
+
+[171]
+Overfull \vbox (5.90831pt too high) has occurred while \output is active []
+
+
+[172] [173] [174]
+Overfull \vbox (20.80925pt too high) has occurred while \output is active []
+
+
+[175] [176]
+Overfull \vbox (1.27138pt too high) has occurred while \output is active []
+
+
+[177] [178]
+Underfull \hbox (badness 10000) in paragraph at lines 4826--4826
 []\TU/LinuxLibertineO(0)/m/n/10 14. []Con-fe-rên-cia de Ma-nuel Cas-tells no e
 vento in-ter-na-ci-o-nal
  []
 
-[172] [173] [174] [175] [176] [177]
-Overfull \vbox (8.9842pt too high) has occurred while \output is active []
+[179] [180] [181] [182] [183] [184] [185] [186] [187]
+Overfull \vbox (19.88737pt too high) has occurred while \output is active []
 
 
-[178] [179] [180]
-Overfull \vbox (17.8174pt too high) has occurred while \output is active []
-
-
-[181] [182] [183] [184] [185] [186]
-Overfull \vbox (7.37459pt too high) has occurred while \output is active []
-
-
-[187
+[188] [189] [190] [191] [192] [193] [194
 
 ]
-Overfull \vbox (10.25516pt too high) has occurred while \output is active []
+Overfull \vbox (19.37459pt too high) has occurred while \output is active []
 
 
-[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
-[200] [201] [202] [203]
-Overfull \vbox (12.85733pt too high) has occurred while \output is active []
+[195] [196]
+Overfull \vbox (11.4581pt too high) has occurred while \output is active []
 
 
-[204]
-Overfull \vbox (8.23045pt too high) has occurred while \output is active []
+[197] [198] [199] [200] [201] [202] [203] [204] [205]
+Overfull \vbox (15.5075pt too high) has occurred while \output is active []
 
 
-[205]
-Underfull \hbox (badness 3098) in paragraph at lines 5693--5693
-[]\TU/LinuxLibertineO(0)/m/n/10 12. []Pelo re-la-tó-rio apre-sen-tado em 22 de
- no-vem-bro de 2017 pela
- []
+[206] [207] [208] [209] [210]
+Overfull \vbox (15.5075pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 5693--5693
-\TU/LinuxLibertineO(0)/m/sc/10 \TU/LinuxLibertineO(0)/m/n/10 -Mulheres
-, a Amé-rica La-tina e Ca-ribe pos-suem as mais al-tas ta-
- []
+[211] [212] [213]
+Overfull \vbox (12.90533pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 5693--5693
-\TU/LinuxLibertineO(0)/m/n/10 alta den-tro dele, se-gundo da-dos do Ob-ser-va-t
-ó-rio so-bre Igual-dade de
- []
+[214]
+Overfull \vbox (5.53224pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 5693--5693
-\TU/LinuxLibertineO(0)/m/n/10 Gê-nero na Amé-rica La-tina e no Ca-ribe, ci-ta
-do no re-la-tó-rio. Dis-po-ní-
- []
-
-[206]
-Overfull \vbox (8.18063pt too high) has occurred while \output is active []
+[215]
+Overfull \vbox (14.8821pt too high) has occurred while \output is active []
 
 
-[207]
-Underfull \hbox (badness 10000) in paragraph at lines 5751--5751
-[]\TU/LinuxLibertineO(0)/m/n/10 15. []Dis-po-ní-vel em: \TU/LinuxLibertineO(0)
-/m/it/10 http://ago-ra-e-que-sa-o-e-las.blog-fo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5751--5751
-\TU/LinuxLibertineO(0)/m/it/10 lha.uol.com.br/2016/10/03/candidatas-eleitoras-e
--eleicoes-pensar-a-partida-
- []
-
-[208] [209]
-Overfull \vbox (5.74968pt too high) has occurred while \output is active []
-
-
-[210] [211]
-Underfull \hbox (badness 10000) in paragraph at lines 5856--5859
-\TU/LinuxLibertineO(0)/m/it/12 http://cul-tu-ra-di-gi-tal.br/ar-te-do-ci-bri-di
-smo/fi-cha-men-tos/antropologia-
- []
-
-[212]
-Overfull \hbox (4.96498pt too wide) in paragraph at lines 5866--5869
+[216] [217] [218] [219]
+Overfull \hbox (4.96498pt too wide) in paragraph at lines 6053--6056
 \TU/LinuxLibertineO(0)/m/n/12 Duke Uni-ver-sit, 2003 \TU/LinuxLibertineO(0)/m/i
 t/12 In: https://www.dart-mouth.edu/ lhc/docs/achil-
  []
 
+[220] [221] [222
 
-Overfull \hbox (6.07086pt too wide) in paragraph at lines 5893--5895
-[]\TU/LinuxLibertineO(0)/m/it/12 www.re-se-ar-ch-gate.net/pu-bli-ca-tion/290609
-211_The_Dark_Side_of_Di-
- []
+] [223] [224] [225
 
-
-Overfull \hbox (22.9184pt too wide) in paragraph at lines 5893--5895
-\TU/LinuxLibertineO(0)/m/it/12 gi-tal_Po-li-tics_Un-ders-tan-ding_the_Al-go-rit
-h-mic_Ma-nu-fac-tu-ring_of_Con-
- []
-
-[213] [214] [215
-
-] [216] [217
-
-] [218]
-Underfull \hbox (badness 1112) in paragraph at lines 5976--5976
+] [226]
+Underfull \hbox (badness 1112) in paragraph at lines 6162--6162
 \TU/LinuxLibertineO(0)/m/n/10 book causa tem-pes-tade po-lí-tica mun-dial. El 
 País, 20 \TU/LinuxLibertineO(0)/m/sc/10  \TU/LinuxLibertineO(0)/m/n/1
 0 2018, 17:35,
  []
 
 
-Underfull \hbox (badness 4569) in paragraph at lines 5976--5976
+Underfull \hbox (badness 4569) in paragraph at lines 6162--6162
 \TU/LinuxLibertineO(0)/m/n/10 on-line. Dis-po-ní-vel: https://bra-sil.el-pais.
 com/bra-sil/2018/03/19/in-ter-na-ci-o-
  []
@@ -2124,310 +2112,222 @@ com/bra-sil/2018/03/19/in-ter-na-ci-o-
 Overfull \vbox (14.93007pt too high) has occurred while \output is active []
 
 
-[219] [220]
+[227] [228]
 Overfull \vbox (0.85733pt too high) has occurred while \output is active []
 
 
-[221] [222] [223]
+[229] [230] [231]
 Overfull \vbox (11.63716pt too high) has occurred while \output is active []
 
 
-[224] [225]
+[232] [233]
 Overfull \vbox (18.61551pt too high) has occurred while \output is active []
 
 
-[226]
+[234]
 Overfull \vbox (9.02493pt too high) has occurred while \output is active []
 
 
-[227] [228]
+[235] [236]
 Overfull \vbox (6.60728pt too high) has occurred while \output is active []
 
 
-[229]
+[237]
 Overfull \vbox (14.44766pt too high) has occurred while \output is active []
 
 
-[230]
+[238]
 Overfull \vbox (14.8821pt too high) has occurred while \output is active []
 
 
-[231] [232]
+[239] [240]
 Overfull \vbox (7.01613pt too high) has occurred while \output is active []
 
 
-[233] [234]
+[241] [242]
 Overfull \vbox (17.58028pt too high) has occurred while \output is active []
 
 
-[235]
-Underfull \hbox (badness 10000) in paragraph at lines 6520--6520
-[]\TU/LinuxLibertineO(0)/m/n/10 es-tão dis-po-ní-veis em https://www.uspto.go
-v/patents-getting-
- []
-
-[236] [237] [238] [239]
-Overfull \vbox (10.20059pt too high) has occurred while \output is active []
+[243] [244]
+Overfull \vbox (11.85828pt too high) has occurred while \output is active []
 
 
-[240]
-Underfull \hbox (badness 10000) in paragraph at lines 6638--6642
+[245] [246] [247] [248]
+Underfull \hbox (badness 10000) in paragraph at lines 6822--6826
 \TU/LinuxLibertineO(0)/m/n/12 tents.go-o-gle.com/pa-tent/US20170180276A1/en?q=%
 22Au-to-ma-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6638--6642
+Underfull \hbox (badness 10000) in paragraph at lines 6822--6826
 \TU/LinuxLibertineO(0)/m/n/12 tic+sug-ges-ti-ons+and+other+con-tent+for+mes-sa-
 ging+ap-pli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6638--6642
+Underfull \hbox (badness 10000) in paragraph at lines 6822--6826
 \TU/LinuxLibertineO(0)/m/n/12 ca-ti-ons%22&oq=%22Au-to-ma-tic+sug-ges-ti-ons+an
 d+other+con-
  []
 
-
-Overfull \hbox (58.37971pt too wide) in paragraph at lines 6646--6650
-\TU/LinuxLibertineO(0)/m/n/12 <https://pa-tents.go-o-gle.com/pa-tent/US10002168
-B2/en?q=G06F17%2f00&q=so-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6646--6650
-\TU/LinuxLibertineO(0)/m/n/12 cial+network&as-sig-nee=Fa-ce-book%2c+Inc.,Lin-ke
--din+Cor-po-ra-
- []
-
-
-Overfull \hbox (37.56062pt too wide) in paragraph at lines 6646--6650
-\TU/LinuxLibertineO(0)/m/n/12 tion&af-ter=pu-bli-ca-tion:20140101&sta-tus=GRANT
-&sort=new&page=12>.
- []
-
-[241]
-Underfull \hbox (badness 10000) in paragraph at lines 6662--6667
+[249]
+Underfull \hbox (badness 10000) in paragraph at lines 6846--6851
 \TU/LinuxLibertineO(0)/m/n/12 tent/US9740752B2/en?q=G06F17%2f00&q=beha-vior&as-
 sig-
  []
 
 
-Overfull \hbox (2.86092pt too wide) in paragraph at lines 6662--6667
+Overfull \hbox (2.86092pt too wide) in paragraph at lines 6846--6851
 \TU/LinuxLibertineO(0)/m/n/12 nee=Fa-ce-book&coun-try=WO,US&sta-tus=GRANT&lan-g
 uage=EN-
  []
 
-[242]
-Overfull \hbox (151.49298pt too wide) in paragraph at lines 6687--6691
-\TU/LinuxLibertineO(0)/m/n/12 <https://pa-tents.go-o-gle.com/pa-tent/US9043400B
-2/en?q=%22G06Q50%2f01%22,G06F17%2f00+&as-
- []
-
-
-Overfull \hbox (22.80685pt too wide) in paragraph at lines 6687--6691
-\TU/LinuxLibertineO(0)/m/n/12 sig-nee=Fa-ce-book%2c+Inc.&af-ter=pri-o-rity:2015
-0101&sta-tus=GRANT>.
- []
-
-
-Underfull \hbox (badness 4403) in paragraph at lines 6697--6701
-\TU/LinuxLibertineO(0)/m/n/12 2018a. Dis-po-ní-vel em: <https://www.sta-tista.
-com/sta-tis-
- []
-
-
-Underfull \hbox (badness 1424) in paragraph at lines 6702--6706
-[]\TU/LinuxLibertineO(0)/m/n/12 ______. Fa-ce-book ad re-ve-nue 2009-2017. \TU/
-LinuxLibertineO(0)/m/it/12 Sta-tista\TU/LinuxLibertineO(0)/m/n/12 , [S.l.],
- []
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 6702--6706
-\TU/LinuxLibertineO(0)/m/n/12 2018b. Dis-po-ní-vel em: <https://www.sta-tista.
-com/sta-tis-
- []
-
-
-Overfull \hbox (3.96733pt too wide) in paragraph at lines 6719--6724
-\TU/LinuxLibertineO(0)/m/n/12 tent/US9553939B2/en?q=%22G06Q50%2f01%22,G06F17%2f
-00+&as-
- []
-
-
-Overfull \hbox (22.80685pt too wide) in paragraph at lines 6719--6724
-\TU/LinuxLibertineO(0)/m/n/12 sig-nee=Fa-ce-book%2c+Inc.&af-ter=pri-o-rity:2015
-0101&sta-tus=GRANT>.
- []
-
-[243]
-Underfull \hbox (badness 1005) in paragraph at lines 6725--6729
+[250]
+Underfull \hbox (badness 1005) in paragraph at lines 6906--6910
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/
 n/12 , Shoshana. \TU/LinuxLibertineO(0)/m/it/12 Big other: sur-veil-lance ca-pi
 -ta-lism and
  []
 
-[244] [245
+[251] [252
 
-] [246] [247] [248] [249]
+] [253] [254] [255] [256] [257]
 Overfull \vbox (4.89815pt too high) has occurred while \output is active []
 
 
-[250] [251] [252] [253] [254] [255]
+[258] [259] [260] [261] [262] [263]
 Overfull \vbox (14.93007pt too high) has occurred while \output is active []
 
 
-[256]
-Underfull \hbox (badness 10000) in paragraph at lines 7120--7120
-[]\TU/LinuxLibertineO(0)/m/n/10 4. []\TU/LinuxLibertineO(0)/m/it/10 https://www
-.ny-ti-mes.com/2019/09/29/te-ch-no-logy/facebook-
- []
-
-[257] [258] [259]
-<./imgs/fig3.png, id=830, pagebox=cropbox, 658.46pt x 456.70625pt>
+[264] [265] [266] [267]
+<./imgs/fig3.png, id=859, pagebox=cropbox, 658.46pt x 456.70625pt>
 File: ./imgs/fig3.png Graphic file (type png)
 <use ./imgs/fig3.png>
-Package luatex.def Info: ./imgs/fig3.png  used on input line 7194. on input line
- 7194.
+Package luatex.def Info: ./imgs/fig3.png  used on input line 7376. on input line
+ 7376.
 Package luatex.def Info: Requested size: 256.0748pt x 177.61296pt on input line 
-7194.
- [260<./imgs/fig3.png>] [261]
-Underfull \hbox (badness 10000) in paragraph at lines 7254--7254
-[]\TU/LinuxLibertineO(0)/m/n/10 5. []\TU/LinuxLibertineO(0)/m/it/10 https://www
-.ted.com/talks/ca-role_cadwal-ladr_fa-ce-book_s_role_in_bre-
- []
+7376.
+ [268<./imgs/fig3.png>] [269]
+Overfull \vbox (2.93007pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (14.93007pt too high) has occurred while \output is active []
-
-
-[262]
-Underfull \hbox (badness 10000) in paragraph at lines 7284--7289
+[270]
+Underfull \hbox (badness 10000) in paragraph at lines 7466--7471
 \TU/LinuxLibertineO(0)/m/n/12 cias.uol.com.br/con-fere/ultimas-noticias/2017/12
 /12/pepsi-vai-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7284--7289
+Underfull \hbox (badness 10000) in paragraph at lines 7466--7471
 \TU/LinuxLibertineO(0)/m/n/12 usar-bolsonaro-nas-latas-apos-campanha-da-coca-co
 m-pabllo-
  []
 
 
-Overfull \hbox (1.47733pt too wide) in paragraph at lines 7290--7297
+Overfull \hbox (1.47733pt too wide) in paragraph at lines 7472--7479
 \TU/LinuxLibertineO(0)/m/n/12 ads/2017/08/Robos-redes-sociais-politica-fgv-dapp
 _.pdf>. Acesso
  []
 
-[263]
-Underfull \hbox (badness 1688) in paragraph at lines 7301--7305
-[]\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/12 , Ca
-r-les. \TU/LinuxLibertineO(0)/m/it/12 Byung-Chul Han: ``Hoje o in-di-ví-duo se
- ex-
- []
+[271] [272] [273] [274
 
-
-Underfull \hbox (badness 2080) in paragraph at lines 7301--7305
-\TU/LinuxLibertineO(0)/m/n/12 po-ní-vel em: <https://bra-sil.el-pais.com/bra-s
-il/2018/02/07/cul-
- []
-
-
-Overfull \hbox (42.18497pt too wide) in paragraph at lines 7301--7305
-\TU/LinuxLibertineO(0)/m/n/12 tura/1517989873_086219.html?fb-clid=IwAR0Exf0PRqJ
-jBU3AZnfF32OXyA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7306--7312
-\TU/LinuxLibertineO(0)/m/n/12 gays-como-pedofilos-carlos-bolsonaro-posta-no-twi
-tter-cartaz-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7325--7330
-\TU/LinuxLibertineO(0)/m/n/12 esclarecido-e-populismo-de-bolsonaro-aproximarao-
-o-brasil-
- []
-
-[264] [265] [266
-
-] [267]
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 7534.
+ [275]
 Overfull \vbox (19.67522pt too high) has occurred while \output is active []
 
 
-[268]
+[276]
 Overfull \vbox (10.20715pt too high) has occurred while \output is active []
 
 
-[269] [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280]
-[281] [282] [283]
-<./imgs/graf3_1.png, id=907, pagebox=cropbox, 487.8225pt x 295.1025pt>
+[277] [278] [279] [280] [281] [282] [283] [284] [285] [286] [287] [288]
+[289] [290] [291] [292] [293]
+<./imgs/graf3_1.png, id=942, pagebox=cropbox, 487.8225pt x 295.1025pt>
 File: ./imgs/graf3_1.png Graphic file (type png)
 <use ./imgs/graf3_1.png>
-Package luatex.def Info: ./imgs/graf3_1.png  used on input line 7864. on input l
-ine 7864.
-Package luatex.def Info: Requested size: 256.0748pt x 154.9086pt on input line 7
-864.
-<./imgs/graf3_2.png, id=908, pagebox=cropbox, 632.3625pt x 302.12875pt>
+Package luatex.def Info: ./imgs/graf3_1.png  used on input line 8149. on input l
+ine 8149.
+Package luatex.def Info: Requested size: 256.0748pt x 154.9086pt on input line 8
+149.
+ [294<./imgs/graf3_1.png>]
+<./imgs/graf3_2.png, id=946, pagebox=cropbox, 632.3625pt x 302.12875pt>
 File: ./imgs/graf3_2.png Graphic file (type png)
 <use ./imgs/graf3_2.png>
-Package luatex.def Info: ./imgs/graf3_2.png  used on input line 7889. on input l
-ine 7889.
-Package luatex.def Info: Requested size: 256.0748pt x 122.34764pt on input line 
-7889.
- [284<./imgs/graf3_1.png>] [285<./imgs/graf3_2.png>]
-<./imgs/graf3_3.png, id=915, pagebox=cropbox, 486.81876pt x 295.1025pt>
+Package luatex.def Info: ./imgs/graf3_2.png  used on input line 8176. on input l
+ine 8176.
+Package luatex.def Info: Requested size: 312.9803pt x 149.53806pt on input line 
+8176.
+
+Overfull \hbox (2.9803pt too wide) in paragraph at lines 8176--8177
+ [][] 
+ []
+
+[295<./imgs/graf3_2.png>]
+<./imgs/graf3_3.png, id=950, pagebox=cropbox, 486.81876pt x 295.1025pt>
 File: ./imgs/graf3_3.png Graphic file (type png)
 <use ./imgs/graf3_3.png>
-Package luatex.def Info: ./imgs/graf3_3.png  used on input line 7927. on input l
-ine 7927.
+Package luatex.def Info: ./imgs/graf3_3.png  used on input line 8216. on input l
+ine 8216.
 Package luatex.def Info: Requested size: 256.0748pt x 155.22832pt on input line 
-7927.
+8216.
 
-Overfull \vbox (0.33653pt too high) has occurred while \output is active []
+Overfull \vbox (10.51665pt too high) has occurred while \output is active []
 
 
-[286<./imgs/graf3_3.png>] [287] [288]
-<./imgs/graf3_4.png, id=925, pagebox=cropbox, 484.81125pt x 293.095pt>
+[296] [297<./imgs/graf3_3.png>]
+Overfull \hbox (2.98253pt too wide) in paragraph at lines 8258--8270
+[] 
+ []
+
+[298] [299]
+<./imgs/graf3_4.png, id=963, pagebox=cropbox, 484.81125pt x 293.095pt>
 File: ./imgs/graf3_4.png Graphic file (type png)
 <use ./imgs/graf3_4.png>
-Package luatex.def Info: ./imgs/graf3_4.png  used on input line 8000. on input l
-ine 8000.
+Package luatex.def Info: ./imgs/graf3_4.png  used on input line 8308. on input l
+ine 8308.
 Package luatex.def Info: Requested size: 256.0748pt x 154.81635pt on input line 
-8000.
- [289<./imgs/graf3_4.png>]
-<./imgs/graf3_5.png, id=929, pagebox=cropbox, 369.38pt x 367.3725pt>
+8308.
+ [300<./imgs/graf3_4.png>] [301]
+<./imgs/graf3_5.png, id=972, pagebox=cropbox, 369.38pt x 367.3725pt>
 File: ./imgs/graf3_5.png Graphic file (type png)
 <use ./imgs/graf3_5.png>
-Package luatex.def Info: ./imgs/graf3_5.png  used on input line 8052. on input l
-ine 8052.
+Package luatex.def Info: ./imgs/graf3_5.png  used on input line 8392. on input l
+ine 8392.
 Package luatex.def Info: Requested size: 256.0748pt x 254.68129pt on input line 
-8052.
- [290] [291<./imgs/graf3_5.png>] [292] [293] [294] [295] [296] [297] [298] [299
-] [300] [301]
-[302])) [303]
+8392.
+ [302<./imgs/graf3_5.png>] [303]
+Overfull \hbox (2.98268pt too wide) in paragraph at lines 8431--8446
+[] 
+ []
+
+[304] [305] [306] [307]
+Overfull \hbox (14.88007pt too wide) in paragraph at lines 8599--8607
+ [] 
+ []
+
+[308] [309] [310] [311] [312] [313] [314] [315] [316] [317])) [318]
 
 Class memoir Warning: The material used in the headers is too large
 (14.49998pt) for the given head height (14.22636pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 58.
+(in both cases you will find help in the memoir manual). on input line 61.
 
 
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
-(/home/editorial/texmf/tex/PUBLICIDADE.tex
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [319
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[304
-
-
-
-
-] [305] [306] [307]) [308
+[320] [321] [322] [323]) [324
 
 
 ]
@@ -2437,16 +2337,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24582 strings out of 494472
+ 24687 strings out of 494472
  100000,794899 words of node,token memory allocated
- 2866 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 101 glue, 1 penalty, 412 attribute, 197 glue_spec, 
-103 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:3617,3:212,4:113,5:485,6:4991,7:2255,8:584,9:655,10:28,11:
-620
- 27402 multiletter control sequences out of 65536+600000
- 108 fonts using 23722903 bytes
- 50i,13n,79p,1330b,455s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 2900 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 103 glue, 1 penalty, 420 attribute, 197 glue_spec, 
+105 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:2,2:3607,3:212,4:113,5:485,6:4991,7:2253,8:584,9:655,10:28,11:
+714
+ 27483 multiletter control sequences out of 65536+600000
+ 127 fonts using 25225103 bytes
+ 50i,15n,79p,1330b,454s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/share/texmf
 -dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/opentype/public/l
 ibertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/libert
@@ -2455,10 +2355,10 @@ inLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmmono8-regula
 r.otf></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (308 pages, 1872936 bytes).
+Output written on LIVRO.pdf (324 pages, 1777405 bytes).
 
-PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
- 680 compressed objects within 7 object streams
+PDF statistics: 1088 PDF objects out of 1200 (max. 8388607)
+ 716 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
