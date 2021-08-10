@@ -1,72 +1,71 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação \vspace \medskipamount }{7}
 \contentsline {part}{Ciberpolítica: Política e Internet}{15}
 \contentsline {chapter}{Estratégias de ação digital dos partidos da internet: um estudo comparado dos sistemas partidários da Espanha e do Brasil, \emph {por Sérgio Braga, Leonardo Caetano Rocha e Fernando Wisse}}{17}
 \contentsline {section}{Os partidos e a internet}{17}
-\contentsline {section}{Universo empírico da pesquisa, metodologia de~análise~e~proposições básicas}{24}
-\contentsline {section}{Análise dos resultados: informação e mobilização nos websites dos partidos brasileiros e espanhóis}{31}
+\contentsline {section}{Universo empírico da pesquisa, metodologia de~análise~e~proposições básicas}{23}
+\contentsline {section}{Análise dos resultados: informação e mobilização nos websites dos partidos brasileiros e espanhóis}{30}
 \contentsline {section}{Os partidos políticos brasileiros e espanhóis e as mídias sociais: atenção e engajamento em rede}{40}
-\contentsline {section}{Considerações Finais}{53}
-\contentsline {section}{Bibliografia}{55}
-\contentsline {chapter}{Quem são os mais ativos? Um estudo longitudinal do uso do Twitter pelos deputados federais brasileiros das 54ª e 55ª legislaturas, \emph {por Marcus Abílio Pereira, Helga do Nascimento de Almeida e Iara Lima Vianna}}{63}
-\contentsline {section}{A~apropriação~das~plataformas~de~redes sociais~pelos~parlamentares~federais -- em~busca~da~legitimidade~perdida}{66}
-\contentsline {section}{Dados e estratégias analíticas}{70}
-\contentsline {section}{O uso do Twitter por parte dos parlamentares da 54ª e 55ª Legislaturas da Câmara dos Deputados do Brasil}{71}
-\contentsline {section}{Associações entre o uso do Twitter por parlamentares das 54ª e 55ª Legislaturas e variáveis socioeconômicas e políticas}{74}
-\contentsline {subsection}{Variável ``ideologia partidária''}{75}
-\contentsline {subsection}{Variável ``Faixa Etária''}{77}
-\contentsline {subsection}{Variável ``Sexo''}{78}
-\contentsline {subsection}{Variável ``Regiões do Brasil'' }{79}
-\contentsline {subsection}{Variável ``Escolaridade''}{80}
-\contentsline {subsection}{Variável ``Primeiro Mandato''}{81}
-\contentsline {section}{Considerações Finais}{82}
-\contentsline {section}{Bibliografia}{85}
-\contentsline {chapter}{O que as lideranças políticas brasileiras pensam sobre as redes tecnossociais, \emph {por Vera Chaia (\textsc {\MakeTextLowercase {PUC}}/\textsc {\MakeTextLowercase {SP}}), Rosemary Segurado (\textsc {\MakeTextLowercase {PUC}}/\textsc {\MakeTextLowercase {SP}}), Tathiana Chicarino (\textsc {\MakeTextLowercase {PUC}}/\textsc {\MakeTextLowercase {SP}}) e Joyce Miranda Leão Martins}}{93}
-\contentsline {section}{Metamorfoses no espaço público: a~internet~como~\emph {lócus}~da~política}{96}
-\contentsline {section}{Metodologia}{100}
-\contentsline {section}{As lideranças e as redes tecnossociais}{103}
-\contentsline {section}{Conclusão}{117}
-\contentsline {section}{Bibliografia}{118}
-\contentsline {section}{Anexo -- As entrevistadas e entrevistados\FN@sf@gobble@opt {As trajetórias das lideranças entrevistadas constam em um instrumento de pesquisa, nomeado de \emph {bioficha}, que contém formulários organizados segundo parâmetros pré"-definidos, para a composição do quadro geral de lideranças políticas brasileiras. Essas informações serão disponibilizadas ao público em geral. Para saber mais acesse: \emph {https://www.pucsp.br/neamp/}}}{121}
-\contentsline {part}{Ciberativismo: Participação, Mobilização e Ativismo Online}{127}
-\contentsline {chapter}{Participação cidadã e o uso das Tecnologias de Informação e Comunicação pela \textsc {\MakeTextLowercase {ABONG}}, \emph {por Claudio Luis de Camargo Penteado, Marcelo Burgos Pimentel dos Santos e Rafael de Paulo Aguiar Araújo}}{129}
-\contentsline {section}{Sociedade Civil e o uso da Internet}{132}
-\contentsline {section}{A ABONG}{138}
-\contentsline {section}{A~ABONG,~sua~organização~interna e~estratégias~de~ação}{148}
-\contentsline {section}{Considerações finais}{157}
-\contentsline {section}{Bibliografia}{160}
-\contentsline {chapter}{O Ocupa Sampa, os \emph {Indignados} de São Paulo: usos e limites das tecnologias digitais de comunicação, participação no movimento global e a importância do espaço público, \emph {por Rita de Cássia Alves Oliveira}}{165}
-\contentsline {section}{Juventudes, tecnologias}{167}
-\contentsline {section}{Contexto e antecedentes do Ocupa Sampa}{169}
-\contentsline {section}{Do chamado global à agenda local}{172}
-\contentsline {section}{Os usos das tecnologias digitais: da~internet~às~ruas}{176}
-\contentsline {section}{Visibilização e inviabilização, segurança~e~insegurança}{180}
-\contentsline {section}{Os~conflitos~na~ocupação,~as~limitações do~uso~das~redes~sociais~online~e~a valorização~do~espaço~público}{184}
-\contentsline {section}{Considerações finais}{189}
-\contentsline {section}{Bibliografia}{191}
-\contentsline {chapter}{Multidão Ciborgue e Império Patriarcal, \emph {por Rosemary Segurado e Claudia Ferraz}}{195}
-\contentsline {section}{A Primavera (Ciber) Feminista}{207}
-\contentsline {section}{Considerações Finais}{218}
-\contentsline {section}{Bibliografia}{220}
-\contentsline {part}{Cibercultura: Modulação, Desinformação e Pesquisa}{223}
-\contentsline {chapter}{Tecnologias de modulação e formatação da opinião em rede, \emph {por Débora Machado, Joyce Souza e Sergio Amadeu da Silveira}}{225}
-\contentsline {section}{MODULAÇÃO E FORMATAÇÃO DA OPINIÃO}{230}
-\contentsline {section}{A IMPORTÂNCIA DOS DADOS COMPORTAMENTAIS PARA~A~MODULAÇÃO}{232}
-\contentsline {section}{OS MECANISMOS DA MODULAÇÃO}{238}
-\contentsline {section}{AS DIVERSAS FINALIDADES DA MODULAÇÃO}{245}
-\contentsline {section}{UMA BREVE CONCLUSÃO}{248}
-\contentsline {section}{Bibliografia}{249}
-\contentsline {chapter}{O ``efeito mola'' e a desinformação: as narrativas efêmeras da nova direita nas redes sociais, \emph {por Pollyana Ferrari Teixeira e Alberto Freitas Filho}}{253}
-\contentsline {section}{A mola reprimida do MBL}{260}
-\contentsline {section}{A mola repressora da desinformação}{265}
-\contentsline {section}{Bibliografia}{271}
-\contentsline {chapter}{Ciberpolítica, Ciberativismo e Cibercultura: Uma análise dos \emph {papers} apresentados no grupo de trabalho da \textsc {\MakeTextLowercase {ANPOCS}}, \emph {por Rafael Cardoso Sampaio, Isabele Mitozo, Michele Goulart Massuchin, Giulia Sbaraini Fontes e Cláudio Luis de Camargo Penteado}}{275}
-\contentsline {section}{Internet, Política e Cibercultura: a consolidação de uma nova área de pesquisas}{279}
-\contentsline {section}{Procedimentos Metodológicos}{287}
-\contentsline {section}{Análise dos dados sobre o \textsc {\MakeTextLowercase {GT}} ``Ciberpolítica, Ciberativismo e Cibercultura''}{291}
-\contentsline {subsection}{Características dos/as autores/as}{291}
-\contentsline {section}{Características dos trabalhos}{301}
-\contentsline {section}{Considerações finais}{311}
-\contentsline {section}{Bibliografia}{316}
+\contentsline {section}{Considerações Finais}{54}
+\contentsline {chapter}{Quem são os mais ativos? Um estudo longitudinal do uso do Twitter pelos deputados federais brasileiros das 54ª e 55ª legislaturas, \emph {por Marcus Abílio Pereira, Helga do Nascimento de Almeida e Iara Lima Vianna}}{61}
+\contentsline {section}{A~apropriação~das~plataformas~de~redes sociais~pelos~parlamentares~federais -- em~busca~da~legitimidade~perdida}{64}
+\contentsline {section}{Dados e estratégias analíticas}{68}
+\contentsline {section}{O uso do Twitter por parte dos parlamentares da 54ª e 55ª Legislaturas da Câmara dos Deputados do Brasil}{69}
+\contentsline {section}{Associações entre o uso do Twitter por parlamentares das 54ª e 55ª Legislaturas e variáveis socioeconômicas e políticas}{72}
+\contentsline {subsection}{Variável ``ideologia partidária''}{73}
+\contentsline {subsection}{Variável ``Faixa Etária''}{75}
+\contentsline {subsection}{Variável ``Sexo''}{76}
+\contentsline {subsection}{Variável ``Regiões do Brasil'' }{77}
+\contentsline {subsection}{Variável ``Escolaridade''}{78}
+\contentsline {subsection}{Variável ``Primeiro Mandato''}{79}
+\contentsline {section}{Considerações Finais}{80}
+\contentsline {chapter}{O que as lideranças políticas brasileiras pensam sobre as redes tecnossociais, \emph {por Vera Chaia (\textsc {puc}/\textsc {sp}), Rosemary Segurado (\textsc {puc}/\textsc {sp}), Tathiana Chicarino (\textsc {puc}/\textsc {sp}) e Joyce Miranda Leão Martins}}{89}
+\contentsline {section}{Metamorfoses no espaço público: a~internet~como~\emph {lócus}~da~política}{92}
+\contentsline {section}{Metodologia}{96}
+\contentsline {section}{As lideranças e as redes tecnossociais}{98}
+\contentsline {section}{Conclusão}{112}
+\contentsline {section}{Anexo -- As entrevistadas e entrevistados\FN@sf@gobble@opt {As trajetórias das lideranças entrevistadas constam em um instrumento de pesquisa, nomeado de \emph {bioficha}, que contém formulários organizados segundo parâmetros pré"-definidos, para a composição do quadro geral de lideranças políticas brasileiras. Essas informações serão disponibilizadas ao público em geral. Para saber mais acesse: \emph {https://www.pucsp.br/neamp/}}}{115}
+\contentsline {paragraph}{Fernando Haddad}{115}
+\contentsline {paragraph}{Manuela D'ávila}{116}
+\contentsline {paragraph}{Flávio Dino}{117}
+\contentsline {paragraph}{Sâmia Bomfim}{118}
+\contentsline {paragraph}{João Amoêdo}{118}
+\contentsline {paragraph}{Fernando Holiday}{119}
+\contentsline {paragraph}{Major Olímpio}{119}
+\contentsline {paragraph}{Ônyx Lorenzoni}{120}
+\contentsline {part}{Ciberativismo: Participação, Mobilização e Ativismo Online}{123}
+\contentsline {chapter}{Participação cidadã e o uso das Tecnologias de Informação e Comunicação pela \textsc {abong}, \emph {por Claudio Luis de Camargo Penteado, Marcelo Burgos Pimentel dos Santos e Rafael de Paulo Aguiar Araújo}}{125}
+\contentsline {section}{Sociedade Civil e o uso da Internet}{128}
+\contentsline {section}{A ABONG}{134}
+\contentsline {section}{A~ABONG,~sua~organização~interna e~estratégias~de~ação}{144}
+\contentsline {section}{Considerações finais}{153}
+\contentsline {chapter}{O Ocupa Sampa, os \emph {Indignados} de São Paulo: usos e limites das tecnologias digitais de comunicação, participação no movimento global e a importância do espaço público, \emph {por Rita de Cássia Alves Oliveira}}{159}
+\contentsline {section}{Juventudes, tecnologias}{161}
+\contentsline {section}{Contexto e antecedentes do Ocupa Sampa}{163}
+\contentsline {section}{Do chamado global à agenda local}{166}
+\contentsline {section}{Os usos das tecnologias digitais: da~internet~às~ruas}{170}
+\contentsline {section}{Visibilização e inviabilização, segurança~e~insegurança}{174}
+\contentsline {section}{Os~conflitos~na~ocupação,~as~limitações do~uso~das~redes~sociais~online~e~a valorização~do~espaço~público}{178}
+\contentsline {section}{Considerações finais}{183}
+\contentsline {chapter}{Multidão Ciborgue e Império Patriarcal, \emph {por Rosemary Segurado e Claudia Ferraz}}{187}
+\contentsline {section}{A Primavera (Ciber) Feminista}{199}
+\contentsline {section}{Considerações Finais}{210}
+\contentsline {part}{Cibercultura: Modulação, Desinformação e Pesquisa}{213}
+\contentsline {chapter}{Tecnologias de modulação e formatação da opinião em rede, \emph {por Débora Machado, Joyce Souza e Sergio Amadeu da Silveira}}{215}
+\contentsline {section}{MODULAÇÃO E FORMATAÇÃO DA OPINIÃO}{220}
+\contentsline {section}{A IMPORTÂNCIA DOS DADOS COMPORTAMENTAIS PARA~A~MODULAÇÃO}{222}
+\contentsline {section}{OS MECANISMOS DA MODULAÇÃO}{228}
+\contentsline {section}{AS DIVERSAS FINALIDADES DA MODULAÇÃO}{235}
+\contentsline {section}{UMA BREVE CONCLUSÃO}{238}
+\contentsline {chapter}{O ``efeito mola'' e a desinformação: as narrativas efêmeras da nova direita nas redes sociais, \emph {por Pollyana Ferrari Teixeira e Alberto Freitas Filho}}{241}
+\contentsline {section}{A mola reprimida do MBL}{248}
+\contentsline {section}{A mola repressora da desinformação}{253}
+\contentsline {chapter}{Ciberpolítica, Ciberativismo e Cibercultura: Uma análise dos \emph {papers} apresentados no grupo de trabalho da \textsc {anpocs}, \emph {por Rafael Cardoso Sampaio, Isabele Mitozo, Michele Goulart Massuchin, Giulia Sbaraini Fontes e Cláudio Luis de Camargo Penteado}}{261}
+\contentsline {section}{Internet, Política e Cibercultura: a consolidação de uma nova área de pesquisas}{265}
+\contentsline {section}{Procedimentos Metodológicos}{273}
+\contentsline {section}{Análise dos dados sobre o \textsc {gt} ``Ciberpolítica, Ciberativismo e Cibercultura''}{276}
+\contentsline {subsection}{Características dos/as autores/as}{276}
+\contentsline {section}{Características dos trabalhos}{288}
+\contentsline {section}{Considerações finais}{298}
 \contentsfinish 
