@@ -335,8 +335,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
 INPUT ./imgs/creativecommons.png
 INPUT ./imgs/creativecommons.png
@@ -415,7 +413,6 @@ INPUT ./imgs/graf2_1.png
 INPUT ./imgs/graf2_2.png
 INPUT ./imgs/graf2_2.png
 INPUT ./imgs/graf2_2.png
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
