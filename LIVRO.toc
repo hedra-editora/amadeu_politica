@@ -46,7 +46,7 @@
 \contentsline {section}{Do chamado global à agenda local}{166}
 \contentsline {section}{Os usos das tecnologias digitais: da~internet~às~ruas}{170}
 \contentsline {section}{Visibilização e inviabilização, segurança~e~insegurança}{174}
-\contentsline {section}{Os~conflitos~na~ocupação,~as~limitações do~uso~das~redes~sociais~online~e~a valorização~do~espaço~público}{178}
+\contentsline {section}{Os~conflitos~na~ocupação,~as~limitações do~uso~das~redes~sociais~\emph{online}~e~a valorização~do~espaço~público}{178}
 \contentsline {section}{Considerações finais}{183}
 \contentsline {chapter}{Multidão Ciborgue e Império Patriarcal\emph {, por{} Rosemary Segurado e Claudia Ferraz}}{187}
 \contentsline {section}{A Primavera (Ciber) Feminista}{199}
